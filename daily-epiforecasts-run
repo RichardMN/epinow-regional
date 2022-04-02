@@ -1,0 +1,26 @@
+#!/bin/bash
+
+countryName="Belgium"
+countryLevel="1"
+startDate="2022-02-01"
+
+touch "Starting epinow run.txt"
+# Since sometimes the script will run past midnight, we need to save the
+# start date for use in the filenames
+dateStub=`date +%C%y%m%d`
+nice Rscript -e "countryName <- \"$countryName\"" -e "countryLevel <- \"$countryLevel\"" -e "startDate <- \"$startDate\"" -e "source(\"epinow2-regional-covidregionaldata.R\")"
+touch "Ended epinow run.txt"
+
+
+# copy output to upload target
+#cp /Users/richardmartin/code/R/COVID/epinow2-multicore-regions/summary-$dateStub/*.csv /Users/richardmartin/Documents/martin-nielsen.ca/projects/Graphs/epinow/
+#cp /Users/richardmartin/code/R/COVID/epinow2-multicore-regions/summary-$dateStub/*.csv /Users/richardmartin/Documents/martin-nielsen.ca/projects/_site/Graphs/epinow/
+# delete summary images (not used)
+#rm /Users/richardmartin/code/R/COVID/epinow2-multicore-regions/summary-$dateStub/*.png
+
+# upload process
+#pushd /Users/richardmartin/Documents/martin-nielsen.ca/projects/
+#jekyll build
+#export site=projects
+#source /Users/richardmartin/Documents/martin-nielsen.ca/upload-script.sh
+#popd
