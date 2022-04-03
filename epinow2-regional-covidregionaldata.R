@@ -23,7 +23,7 @@ print(countryLevel)
 #
 
 #startDate <- "2022-01-01"
-setNumberOfCores <- 8
+setNumberOfCores <- 10
 
 runInParallel <- TRUE # whether to run in parallel
 narrowRegions <- FALSE # whether to operate on a narrowed set of regions
@@ -117,7 +117,7 @@ regional_estimates <- regional_epinow(
 
 regional_summary(regional_output = regional_estimates$regional,
                  reported_cases = narrowed_incidence,
-                 summary_dir= paste0(getwd(),"/epinow2-multicore-regions/summary-",dateEndStub, shortRunStub),
+                 summary_dir= paste0(getwd(),"/output/summary-",dateEndStub, shortRunStub),
                  region_scale = "Region",
                  all_regions = TRUE)
 
@@ -125,7 +125,7 @@ regional_summary(regional_output = regional_estimates$regional,
 write.csv(last_date,
           paste0(
             getwd(),
-            "/epinow2-multicore-regions/summary-",
+            "/output/summary-",
             dateEndStub,
             shortRunStub,
             "/latest_date.csv"),

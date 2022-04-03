@@ -47,3 +47,10 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# timestamps
+Starting\ epinow\ run.txt
+Ended\ epinow\ run.txt
+
+# output
+output/*

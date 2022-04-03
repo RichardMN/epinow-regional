@@ -1,6 +1,6 @@
 #!/bin/bash
 
-countryName="Belgium"
+countryName="Canada"
 countryLevel="1"
 startDate="2022-02-01"
 
