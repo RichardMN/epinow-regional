@@ -21,9 +21,13 @@ if (search_country) {
   spdf_data <- ne_states( geounit = countryName )
 }
 
+# Renaming and trimming excess fields
 geoData <- st_as_sf(spdf_data) %>%
-  select(name, name_alt, geometry)
+  select(name_en, name_alt, geometry) %>%
+  rename(sovereignt = name_en)
 
-geoData <- ms_simplify(geoData,keep=0.04)
+# This simplifies the geometry, keeping 0.04 of the original points
+geoData <- ms_simplify(geoData, keep=0.04)
 
+# Write a geojson file 
 geojson_write(geoData, file=paste0(countryName, "_regions.geojson"))
