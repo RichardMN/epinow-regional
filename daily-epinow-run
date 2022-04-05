@@ -19,8 +19,3 @@ cp output/summary-$dataStub/*.csv docs/epinow
 #rm output/summary-$dateStub/*.png
 
 # upload process
-#pushd /Users/richardmartin/Documents/martin-nielsen.ca/projects/
-#jekyll build
-#export site=projects
-#source /Users/richardmartin/Documents/martin-nielsen.ca/upload-script.sh
-#popd
