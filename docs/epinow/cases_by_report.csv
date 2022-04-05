@@ -1,0 +1,859 @@
+region,date,strat,type,median,mean,sd,lower_90,lower_50,lower_20,upper_20,upper_50,upper_90
+Alberta,2022-02-01,,estimate,1253,2532.1,3638,26,388.8,821.2,1834.4,3178.2,9203.2
+Alberta,2022-02-02,,estimate,588,1110,1481.6,18,192,409.6,829.4,1450.2,3933.4
+Alberta,2022-02-03,,estimate,572,1041,1396,14,163.8,377,839.8,1402,3478.2
+Alberta,2022-02-04,,estimate,595.5,1162.2,1513.7,17,187.8,411,876.8,1484.2,4356.4
+Alberta,2022-02-05,,estimate,671.5,1326.7,1934.4,15.9,189,450.6,988.8,1691.2,4798.4
+Alberta,2022-02-06,,estimate,561,1116.6,1708.9,16,164,370.6,790.4,1372.5,3996.7
+Alberta,2022-02-07,,estimate,505.5,1103.2,1837.6,13,162.8,342.6,769.4,1315.2,4096
+Alberta,2022-02-08,,estimate,1931,4128.8,6206.1,52,556.2,1262.8,2734,5085.8,15247.6
+Alberta,2022-02-09,,estimate,941,1877.8,2861.2,22,283,595,1356.4,2381.5,6484.9
+Alberta,2022-02-10,,estimate,930.5,1928.1,2929.6,25,288,620.2,1334.4,2408,7253.7
+Alberta,2022-02-11,,estimate,900.5,1819,2868.5,26.9,267,610,1314.2,2223.2,6488.4
+Alberta,2022-02-12,,estimate,972.5,1994.7,2802.4,22,301.2,665,1468.4,2527.5,7367.2
+Alberta,2022-02-13,,estimate,757,1535.2,2329.6,21.9,210,499.4,1091.4,1890,5604.8
+Alberta,2022-02-14,,estimate,627.5,1229.3,1729.4,15,194,429.6,892,1527.8,4683
+Alberta,2022-02-15,,estimate,1883.5,3984.2,6146.3,43.9,565.5,1288.2,2844.8,5080.5,14471.3
+Alberta,2022-02-16,,estimate,887,1761,2657.5,23,257.5,589.6,1229.8,2190.2,6649.3
+Alberta,2022-02-17,,estimate,800,1514.1,2084.5,20,270.2,541,1122,1966.5,5311.6
+Alberta,2022-02-18,,estimate,734.5,1463.5,2302.7,21.9,223,484,1075,1883,5101.4
+Alberta,2022-02-19,,estimate,670,1334.6,1931.2,15,196,443.6,951,1654.5,4973.1
+Alberta,2022-02-20,,estimate,540,1100.5,1738.7,18,177,374.2,762.4,1357.5,3948.4
+Alberta,2022-02-21,,estimate,386.5,810,1264.1,9,104,252.6,571.8,991.2,2963.7
+Alberta,2022-02-22,,estimate,1247.5,2705.5,4480.6,34,365,809.6,1789.4,3148,9798.2
+Alberta,2022-02-23,,estimate,513.5,1055.3,1675.3,15,164.8,344,740.4,1278.2,3842.3
+Alberta,2022-02-24,,estimate,433,907.5,1373.9,11.9,141,285,633.6,1137,3394.2
+Alberta,2022-02-25,,estimate,425.5,885.8,1364.5,12,134.8,291.6,600.8,1097.2,3093.7
+Alberta,2022-02-26,,estimate,404,807.8,1204.3,11.9,115,268,579.4,1015.2,3017.8
+Alberta,2022-02-27,,estimate,294,592.3,937.4,5,85.8,198,412.4,724.5,2163.2
+Alberta,2022-02-28,,estimate,232.5,519.1,866.8,6,64.8,150.6,349.4,624,1848.5
+Alberta,2022-03-01,,estimate,800,1681.9,2628.1,19,236,510,1142,2012,6611.3
+Alberta,2022-03-02,,estimate,334,699.4,1005.7,9,106.8,234,488.8,885.8,2681.4
+Alberta,2022-03-03,,estimate,301,600.5,845.7,8,91.8,206,449,782.2,2029
+Alberta,2022-03-04,,estimate,290,598.3,907.1,8,87.8,185.6,422.8,770.2,2143.1
+Alberta,2022-03-05,,estimate,297.5,585.4,835.6,7,89,192.6,424,744.2,2107.8
+Alberta,2022-03-06,,estimate,227,482.8,696.1,6,71,150,345.4,611.2,1731.3
+Alberta,2022-03-07,,estimate,198,400.8,595.3,5,57,128.6,280,509,1479.1
+Alberta,2022-03-08,,estimate,631,1336,2204.6,15,191,409.6,877.4,1569.8,4917.7
+Alberta,2022-03-09,,estimate,293.5,599.5,879.3,10,96.8,198,425.4,722.5,2225.8
+Alberta,2022-03-10,,estimate,251.5,540.7,794.9,7,73.8,170,379.8,665,1993.1
+Alberta,2022-03-11,,estimate,251,506.4,743.7,7,78,169,365,635.2,1847.4
+Alberta,2022-03-12,,estimate,273.5,542.8,760.7,7,85,186,395,692.5,2006
+Alberta,2022-03-13,,estimate,210.5,420.8,652.2,4,61,142,300.4,543.2,1516
+Alberta,2022-03-14,,estimate,171,358.5,526.8,4,57,118,249,453.2,1264.4
+Alberta,2022-03-15,,estimate,609.5,1249,1774.4,15,174.5,382.8,874,1621,4613.7
+Alberta,2022-03-16,,estimate,258,542.7,818.7,7,78.5,183.2,380.4,672.5,1988
+Alberta,2022-03-17,,estimate,231.5,491.9,850.9,5,64,147,343,598.5,1869
+Alberta,2022-03-18,,estimate,220.5,471.6,682.9,5,70,152,329.4,604.5,1738.1
+Alberta,2022-03-19,,estimate,234.5,483.9,775.5,6,73,151.2,346,610,1763.1
+Alberta,2022-03-20,,estimate,185,363.9,518.2,4,50,117.6,268.4,481,1227
+Alberta,2022-03-21,,estimate,150,321.2,489.5,5,48,98.6,218,379,1151.4
+Alberta,2022-03-22,,estimate based on partial data,475.5,916,1270.3,12,143,297.6,696.4,1187,3392.3
+Alberta,2022-03-23,,estimate based on partial data,207,455.1,677.9,6,62,135,321,564.2,1731.2
+Alberta,2022-03-24,,estimate based on partial data,201,400.6,623.5,3,56.8,131,289,484.8,1454.2
+Alberta,2022-03-25,,estimate based on partial data,181,410.5,702.8,5,53,115.6,267.4,490,1645.2
+Alberta,2022-03-26,,estimate based on partial data,191,396.2,581.8,4,52,121.6,290,512.8,1460
+Alberta,2022-03-27,,estimate based on partial data,148,323.6,520.8,3.9,48,103,213,378,1180
+Alberta,2022-03-28,,estimate based on partial data,111,268.7,443,3,35,76,171.4,306.5,1082.1
+Alberta,2022-03-29,,estimate based on partial data,438,815.9,1083.5,13,135,292,633.4,1072.2,2781.1
+Alberta,2022-03-30,,estimate based on partial data,163.5,471.1,1280.2,4,46,103,244,468.5,1695.1
+Alberta,2022-03-31,,estimate based on partial data,135.5,452.3,1225.8,3,40,86,209,406,1832.1
+Alberta,2022-04-01,,forecast,147,503,1285.3,2,42.8,92,224.4,448.2,1958.1
+Alberta,2022-04-02,,forecast,143,717.4,4163.5,2,40,88.6,230,494,2414.7
+Alberta,2022-04-03,,forecast,112,1003.5,11984.9,2,27,65,172.4,378.5,2474.4
+Alberta,2022-04-04,,forecast,92,2314.3,66998.8,1,23.8,56,149,346.2,2175.5
+Alberta,2022-04-05,,forecast,325.5,19687.1,694779.7,6,79,190,535.8,1167.2,7677.4
+Alberta,2022-04-06,,forecast,133,155583.5,6625734.4,2,29,73,233.8,616.8,6443.1
+Alberta,2022-04-07,,forecast,116,114917.9,4756771.1,1,26,65,213,557.2,7719.5
+British Columbia,2022-02-01,,estimate,980,994.6,244.2,628,824,916,1035.4,1147,1408.1
+British Columbia,2022-02-02,,estimate,1196,1230,317.4,770,1013.8,1114.6,1284,1429.2,1788.1
+British Columbia,2022-02-03,,estimate,1256,1281.5,319.8,814,1061,1179,1333,1470.2,1864
+British Columbia,2022-02-04,,estimate,1200,1220.8,295,781,1009.8,1121,1272.4,1397,1741.1
+British Columbia,2022-02-05,,estimate,1217.5,1236.4,298.7,781.9,1032,1141,1304,1427,1751
+British Columbia,2022-02-06,,estimate,1090.5,1112.9,277.3,706,923,1022,1159.4,1284.5,1582.1
+British Columbia,2022-02-07,,estimate,940.5,961.5,237.5,621,795,881,999,1101.2,1386.2
+British Columbia,2022-02-08,,estimate,1167,1191,299.1,754,978,1097.6,1236.8,1365,1740.1
+British Columbia,2022-02-09,,estimate,1402.5,1434.4,355.8,927,1184.8,1309.2,1495.4,1634.2,2087.1
+British Columbia,2022-02-10,,estimate,1372.5,1406.9,356.5,882,1165,1283.6,1454.4,1617.2,2044.1
+British Columbia,2022-02-11,,estimate,1185.5,1217.2,298.1,789.9,1008.8,1116.6,1261.4,1390.2,1739
+British Columbia,2022-02-12,,estimate,1067,1091.3,266.8,693.9,909,1006,1133,1246,1585.2
+British Columbia,2022-02-13,,estimate,845,861.3,213.2,550.9,715,790,897,984.2,1219
+British Columbia,2022-02-14,,estimate,643,660.1,159.8,418,547,606.6,684.4,759,947.1
+British Columbia,2022-02-15,,estimate,726,743.8,189.9,470,612.8,684,770,848.2,1069.1
+British Columbia,2022-02-16,,estimate,820,844.8,214.9,528,693,774.6,877,971.2,1232
+British Columbia,2022-02-17,,estimate,759.5,777.5,190.8,501.9,644,709,805,890.2,1130.2
+British Columbia,2022-02-18,,estimate,661,676.1,170.7,433,557,624,695,771,971.1
+British Columbia,2022-02-19,,estimate,588,604.1,151.3,389,500.8,553,626,687,871
+British Columbia,2022-02-20,,estimate,471,484.6,123.1,314.9,397,442,498,553,710
+British Columbia,2022-02-21,,estimate,380,387,96.2,245,319,357,403,445,563
+British Columbia,2022-02-22,,estimate,441,452.7,111.7,294.9,371.8,415.6,470,518,653
+British Columbia,2022-02-23,,estimate,526,538.9,131,353,446,494,558,613,774
+British Columbia,2022-02-24,,estimate,518,529.8,131,334.9,439,489,549,608,762
+British Columbia,2022-02-25,,estimate,458,470.5,120.6,297,385,427,490,543.2,678
+British Columbia,2022-02-26,,estimate,437,450.4,109.9,286,376,416,466,517,647.1
+British Columbia,2022-02-27,,estimate,366,371.9,90.8,236.9,309,344.6,389,426,537
+British Columbia,2022-02-28,,estimate,300,305.5,75,194,252,281,320,351.2,439
+British Columbia,2022-03-01,,estimate,356,366.2,90.6,235.9,303,335,378,422.2,532
+British Columbia,2022-03-02,,estimate,433,440.9,108.9,280,368,406,456,505.2,639
+British Columbia,2022-03-03,,estimate,423,432,106.6,274.9,356,397,446.4,496,626
+British Columbia,2022-03-04,,estimate,378,384.9,97,246,314,354,400.4,443.2,557
+British Columbia,2022-03-05,,estimate,353,361.7,88.7,227,300,334,377,416,520.1
+British Columbia,2022-03-06,,estimate,288,294.2,72.9,186,244,269,307,337.2,426
+British Columbia,2022-03-07,,estimate,231,236.9,60.1,147,194,216,246,274,343
+British Columbia,2022-03-08,,estimate,272,278.2,66.6,178.9,232.8,256,288.4,320,395
+British Columbia,2022-03-09,,estimate,323,328.7,80.7,210,273,303,343,376.2,471
+British Columbia,2022-03-10,,estimate,310,317.3,80.4,201,262,291,328,363,464
+British Columbia,2022-03-11,,estimate,274.5,282.4,71.8,178,232,258,294,323,412
+British Columbia,2022-03-12,,estimate,254,259.6,66,163,213,237,270,297,378
+British Columbia,2022-03-13,,estimate,207,210.5,55.3,129,172,193,219,245.2,306
+British Columbia,2022-03-14,,estimate,167,171.6,43.7,108,142,157,178,197,249
+British Columbia,2022-03-15,,estimate,199,204.5,52.8,130,167,187,212,235,301
+British Columbia,2022-03-16,,estimate,242,247.9,64.4,149,204,227,260,286,360
+British Columbia,2022-03-17,,estimate,239,246,61.8,153,203,226,255,284,361
+British Columbia,2022-03-18,,estimate,219,224.6,56.6,144,186,206,233,256,325
+British Columbia,2022-03-19,,estimate,210,215.9,54.3,137,176,198,224,251,313
+British Columbia,2022-03-20,,estimate,180,184,47.9,116,149,169,192,212,269
+British Columbia,2022-03-21,,estimate,154,157.5,40.3,98,129,143,165,182,229
+British Columbia,2022-03-22,,estimate based on partial data,190,195.5,50.6,122,160,178,203,225,284
+British Columbia,2022-03-23,,estimate based on partial data,240,245.6,62.8,157,203,226,254,281,355
+British Columbia,2022-03-24,,estimate based on partial data,251,257.4,64.6,160,213,238,269,297.2,370.1
+British Columbia,2022-03-25,,estimate based on partial data,235,241.6,62,151,198.8,221,250,279.2,352
+British Columbia,2022-03-26,,estimate based on partial data,235,242.2,63.8,151,196,219,252,280,354
+British Columbia,2022-03-27,,estimate based on partial data,207,211.4,53.9,133,173,193,221,243,307
+British Columbia,2022-03-28,,estimate based on partial data,176,180.6,47,109,148,166,189,211,262
+British Columbia,2022-03-29,,estimate based on partial data,219,225.5,60.4,140,183,204,233,260,333
+British Columbia,2022-03-30,,estimate based on partial data,280,289.4,78,182,233,261,300,335,435
+British Columbia,2022-03-31,,estimate based on partial data,289,299.8,84.8,181,240,270,311,348,452
+British Columbia,2022-04-01,,forecast,270,284.1,93,160,220,251,292,336,452
+British Columbia,2022-04-02,,forecast,269,290.4,117.7,146,208,247,296,344,515
+British Columbia,2022-04-03,,forecast,230,259.5,140,113.9,171,206,254,307,503.1
+British Columbia,2022-04-04,,forecast,191,235,178.8,84,138,168,220.4,279.2,520
+British Columbia,2022-04-05,,forecast,235,317.8,325.3,94,161,201,279,364,798
+British Columbia,2022-04-06,,forecast,293,445,614.2,101.9,182.8,243,351,483.2,1223.1
+British Columbia,2022-04-07,,forecast,293.5,525.6,967.5,92,173.8,239,363,519,1639.1
+Manitoba,2022-02-01,,estimate,112,249.2,354.4,1,31,73,171,315,971.1
+Manitoba,2022-02-02,,estimate,148,309.1,431.1,2,41.8,94.6,228.4,399,1164.2
+Manitoba,2022-02-03,,estimate,155,322.6,489.7,2,39.8,96,228,404.2,1158.1
+Manitoba,2022-02-04,,estimate,167,387.9,580.4,3,45.8,102,255.4,483,1492.4
+Manitoba,2022-02-05,,estimate,53,143.8,252.7,1,15,34,83,169,559
+Manitoba,2022-02-06,,estimate,265,538.9,791,5,70,165.6,383,664.8,2025.4
+Manitoba,2022-02-07,,estimate,138,315.1,470.9,2,36,82.6,213,394.2,1244
+Manitoba,2022-02-08,,estimate,218.5,460.4,728.7,3,58,137.6,315,562,1614.4
+Manitoba,2022-02-09,,estimate,268,601.9,930.8,5,72,180,396.4,754.5,2229.1
+Manitoba,2022-02-10,,estimate,268,607,940.1,4,73,173,400,744.2,2361.2
+Manitoba,2022-02-11,,estimate,321,699.7,1032.8,5,90.8,211,492.8,878.8,2586.4
+Manitoba,2022-02-12,,estimate,100,254.7,444.9,1,26,64,146,292,1033.1
+Manitoba,2022-02-13,,estimate,380,846,1264.2,5,106.8,241.6,577.4,1097.5,3190.1
+Manitoba,2022-02-14,,estimate,186,398.5,578.2,4,52.8,120,276.8,506.2,1530.4
+Manitoba,2022-02-15,,estimate,255.5,516.1,795.6,3,69.8,165,388.4,664.2,1777.4
+Manitoba,2022-02-16,,estimate,295,617.3,943.3,4,76,188,426.4,783.2,2290.3
+Manitoba,2022-02-17,,estimate,270,579.3,954.8,4.9,77,173.6,412.4,755.8,2147.6
+Manitoba,2022-02-18,,estimate,306,650.3,991.9,8,87,196.2,439.4,795.2,2455.1
+Manitoba,2022-02-19,,estimate,77,206.5,397.4,1,19,48,116,224,830.2
+Manitoba,2022-02-20,,estimate,297.5,662.4,1007,6,86,205.6,438.2,812,2569.3
+Manitoba,2022-02-21,,estimate,146.5,316.9,506.3,3,42,97,214,401.2,1197
+Manitoba,2022-02-22,,estimate,172.5,381.3,579.8,4,51,119,261.4,481,1459.4
+Manitoba,2022-02-23,,estimate,196,430.7,655.6,4,52,127.6,302,545.2,1583.4
+Manitoba,2022-02-24,,estimate,174,376.8,595.1,2,45,107,256.4,458,1468.2
+Manitoba,2022-02-25,,estimate,182.5,410.3,685.3,4,46,119.6,287,495,1544.2
+Manitoba,2022-02-26,,estimate,50,136.8,259,0,12,31,81.4,142.2,541.2
+Manitoba,2022-02-27,,estimate,180.5,408.1,621.8,3,47,113,273,508,1567.1
+Manitoba,2022-02-28,,estimate,86,190.3,295.8,1,23,59,126.4,228.2,698.3
+Manitoba,2022-03-01,,estimate,112.5,237.8,349.6,1,29,70,161.4,298,908.3
+Manitoba,2022-03-02,,estimate,119,265.7,442.9,2,33,81,173,314.2,1004.2
+Manitoba,2022-03-03,,estimate,106,251,407,2,28,68,164.4,301.5,978.7
+Manitoba,2022-03-04,,estimate,135,295,496.1,2,36,85.6,198.4,353.8,1082.2
+Manitoba,2022-03-05,,estimate,33,95.3,196.3,0,8,21,50,98,399.1
+Manitoba,2022-03-06,,estimate,131,294.7,449.3,2,35,82,200.4,354.2,1127.1
+Manitoba,2022-03-07,,estimate,62,145.8,244.3,1,17.8,41,93,171.2,548.2
+Manitoba,2022-03-08,,estimate,90,195.2,304.2,1,21,55,134,244.2,734.1
+Manitoba,2022-03-09,,estimate,106.5,229.6,353.6,2,28,69,157,276,863.2
+Manitoba,2022-03-10,,estimate,92,219,349.6,1,26,60,147,273,817.4
+Manitoba,2022-03-11,,estimate,116.5,257.7,394.9,2,34,78.6,171.4,314,1001.2
+Manitoba,2022-03-12,,estimate,35,99.8,189,0,9,22,53,103.2,441
+Manitoba,2022-03-13,,estimate,135,287.8,420.3,2,37,87,201,357,1119.1
+Manitoba,2022-03-14,,estimate,61.5,149,285,1,16,37.6,96,181,534.1
+Manitoba,2022-03-15,,estimate,87,187.6,289,1,24,57,129,230,698.3
+Manitoba,2022-03-16,,estimate,103.5,210.7,299.9,1,25,63,151.4,274,764.1
+Manitoba,2022-03-17,,estimate,96,207.5,308.7,1.9,26,62,144,262.2,792
+Manitoba,2022-03-18,,estimate,111,240,373.4,1,30,71,168,295.5,892.7
+Manitoba,2022-03-19,,estimate,34,79.9,132.9,0,9,21,51.4,93.2,310
+Manitoba,2022-03-20,,estimate,131,272,422.7,2,31.8,81,191,340.2,989.1
+Manitoba,2022-03-21,,estimate,60,133.1,204.8,1,15,36,91,172,497
+Manitoba,2022-03-22,,estimate based on partial data,75,171.2,282.8,1,21,48,113,205,662.3
+Manitoba,2022-03-23,,estimate based on partial data,73,189.8,351.6,1,19,48,114.4,210.2,725.1
+Manitoba,2022-03-24,,estimate based on partial data,77,181.7,299,2,20,48,118.4,221,756
+Manitoba,2022-03-25,,estimate based on partial data,90,210.9,356.9,1,23,56,135,246,795.1
+Manitoba,2022-03-26,,estimate based on partial data,23,53.9,87.2,0,7,16,36,63.2,195
+Manitoba,2022-03-27,,estimate based on partial data,85.5,224.3,447.4,1,20,51,127,239,869.4
+Manitoba,2022-03-28,,estimate based on partial data,37,112.4,238.9,0,9,23,57,117,469
+Manitoba,2022-03-29,,estimate based on partial data,38,134.1,317.5,0,10,25,62,129,564.3
+Manitoba,2022-03-30,,estimate based on partial data,47,164.1,401.9,0,12,28,74,157.5,668
+Manitoba,2022-03-31,,estimate based on partial data,42,169.7,711.4,0,10,25,66,132,615.1
+Manitoba,2022-04-01,,forecast,45,200.8,667.9,0,12,27,70,150,813.9
+Manitoba,2022-04-02,,forecast,11,43.1,154.8,0,3,7,17,35,161
+Manitoba,2022-04-03,,forecast,38.5,225.9,881.8,0,8.8,22,66,141,912.2
+Manitoba,2022-04-04,,forecast,17,169.5,1186.7,0,3,9,30,72,530.4
+Manitoba,2022-04-05,,forecast,18,293.9,2677,0,4,10,30,78,771.2
+Manitoba,2022-04-06,,forecast,18,305.8,2876.1,0,4,11,32,88.2,934.3
+Manitoba,2022-04-07,,forecast,16,975.6,25602.8,0,3,8.6,29,80,1127.9
+New Brunswick,2022-02-01,,estimate,49,149.7,291.1,0,10,30,82,159,597.1
+New Brunswick,2022-02-02,,estimate,61,184.1,423.4,0,12,33,98,196.2,714.3
+New Brunswick,2022-02-03,,estimate,71,205.8,361.7,0,16,43,119,246,825.2
+New Brunswick,2022-02-04,,estimate,98,293.1,664.7,0,22,58,160,322,1221.1
+New Brunswick,2022-02-05,,estimate,923.5,2879.8,6321.2,6,190.5,532,1480.2,3018.5,11536.2
+New Brunswick,2022-02-06,,estimate,22.5,67.6,138.9,0,4,13,35,74,260
+New Brunswick,2022-02-07,,estimate,158,484.6,991.1,1,31,91,261.4,557.2,1949
+New Brunswick,2022-02-08,,estimate,136,404.5,755.2,0,28,77.6,221,445.2,1759.4
+New Brunswick,2022-02-09,,estimate,166.5,475.8,935.5,1,34,99,275.4,550,1836
+New Brunswick,2022-02-10,,estimate,200.5,558.8,945.1,1,42,119,337,659.2,2326.1
+New Brunswick,2022-02-11,,estimate,226,687.9,1521.9,1,46.8,127,366.4,773.2,2908.3
+New Brunswick,2022-02-12,,estimate,1757,6305.5,15373.9,11.9,357.5,978.6,3172.2,6358.2,25071.9
+New Brunswick,2022-02-13,,estimate,50,144,319,0,10,30,78,149,577.2
+New Brunswick,2022-02-14,,estimate,286,820.9,1509.4,2,53.8,165.6,448,900.8,3370.1
+New Brunswick,2022-02-15,,estimate,233,650.4,1137.3,1,44,135,372.4,760,2622.3
+New Brunswick,2022-02-16,,estimate,252,706.2,1201.6,1,53.8,149.6,415.4,829,2843.3
+New Brunswick,2022-02-17,,estimate,309.5,804.7,1488.4,1,60.8,167,485.4,955.2,3161.1
+New Brunswick,2022-02-18,,estimate,307.5,868.7,1482.8,2,56,165.6,476,1022.5,3585.3
+New Brunswick,2022-02-19,,estimate,2454.5,7084.6,14001.7,18.9,475.5,1373.8,3947.4,7823.8,28955
+New Brunswick,2022-02-20,,estimate,51,160.7,306.3,0,10,30,86,177,657
+New Brunswick,2022-02-21,,estimate,278,847.6,1537.1,1,49,150.6,472.2,979,3570.2
+New Brunswick,2022-02-22,,estimate,237,665.5,1239.4,1,44,134.2,389,777.5,2690.2
+New Brunswick,2022-02-23,,estimate,230,647.6,1157,1,44,130.6,362,711.2,2789.4
+New Brunswick,2022-02-24,,estimate,251.5,659.3,1384.2,1,50,143,375.4,766.2,2728.2
+New Brunswick,2022-02-25,,estimate,220,679.7,1199.7,1,46,136,377.4,738.2,3035.2
+New Brunswick,2022-02-26,,estimate,1973.5,5778.1,11531.4,14,397,1169.6,3263,6355,21929.2
+New Brunswick,2022-02-27,,estimate,43,133.9,298.8,0,8,23,70,139,529.7
+New Brunswick,2022-02-28,,estimate,222,656.4,1483.6,1,47,130,358.4,744,2432
+New Brunswick,2022-03-01,,estimate,162,449.7,779.5,1,30,94.6,267.4,514.2,1876
+New Brunswick,2022-03-02,,estimate,155,437.4,821.3,1,28,89,262.4,504.2,1796.4
+New Brunswick,2022-03-03,,estimate,157,456.1,908.6,1,29,85,253,510,1820.2
+New Brunswick,2022-03-04,,estimate,161,454.9,869.1,1,36,97,259,501,1872
+New Brunswick,2022-03-05,,estimate,1205,3687.7,6817.7,11.9,286,779,1944.4,3963,15856.7
+New Brunswick,2022-03-06,,estimate,24,83.2,171.7,0,4,13,40.4,89,354
+New Brunswick,2022-03-07,,estimate,137,379.6,648.4,1,30,83,222,442,1626
+New Brunswick,2022-03-08,,estimate,100,279.4,533,0,20,56,151.4,306,1173
+New Brunswick,2022-03-09,,estimate,89.5,270.4,507.5,0,17,52,139.4,314,1041
+New Brunswick,2022-03-10,,estimate,92,264,475.3,0,20.8,54,148,304,1137
+New Brunswick,2022-03-11,,estimate,93,274.2,555,0.9,20,57.6,146,291.2,1093
+New Brunswick,2022-03-12,,estimate,632.5,1835.6,3161.7,3,128,359.6,1014.8,2002.8,8691.2
+New Brunswick,2022-03-13,,estimate,13,47.8,146.3,0,2,7,22,45.2,192
+New Brunswick,2022-03-14,,estimate,63,196.3,373.5,0,11,35,104,221,837
+New Brunswick,2022-03-15,,estimate,46.5,138.7,241.9,0,9,28,80,155,573.2
+New Brunswick,2022-03-16,,estimate,43,140.4,287,0,9,25,73,152,599
+New Brunswick,2022-03-17,,estimate,43,126.1,245.2,0,8,24.6,70,138,493.5
+New Brunswick,2022-03-18,,estimate,37,117,232.9,0,7,21,60,129,493
+New Brunswick,2022-03-19,,estimate,308.5,740.6,1189.6,2,66.8,191,482,914.2,2754.4
+New Brunswick,2022-03-20,,estimate,6,20.9,49.7,0,1,3,9,19,88
+New Brunswick,2022-03-21,,estimate,31,95.7,194.3,0,6,17,49,97,402.3
+New Brunswick,2022-03-22,,estimate based on partial data,19,64.3,146.9,0,4,11,31,69,246
+New Brunswick,2022-03-23,,estimate based on partial data,18,57.9,117.1,0,3,11,31,65,229.1
+New Brunswick,2022-03-24,,estimate based on partial data,17,58.3,125.1,0,3,9.6,28,59,249.1
+New Brunswick,2022-03-25,,estimate based on partial data,17,60.7,150.5,0,3,11,27,59,259
+New Brunswick,2022-03-26,,estimate based on partial data,121,329,561,0,23,72,194,388,1323.6
+New Brunswick,2022-03-27,,estimate based on partial data,2,9.8,26.1,0,0,1,3,8,40
+New Brunswick,2022-03-28,,estimate based on partial data,12,46,110.1,0,2,7,20,42,202
+New Brunswick,2022-03-29,,estimate based on partial data,7,38.6,197.4,0,1,4.6,13,30,140
+New Brunswick,2022-03-30,,estimate based on partial data,7,32.3,92.8,0,1,4,12,26,138.1
+New Brunswick,2022-03-31,,estimate based on partial data,6,39.6,220.2,0,1,4,11,24,137
+New Brunswick,2022-04-01,,forecast,5,47.3,388.2,0,1,3,9,25,162
+New Brunswick,2022-04-02,,forecast,46,190.5,540.5,0,9,27,74,153.2,716.1
+New Brunswick,2022-04-03,,forecast,1,8.7,63.4,0,0,0,1,4,31
+New Brunswick,2022-04-04,,forecast,4,54.2,540.4,0,0,2,8,19,142
+New Brunswick,2022-04-05,,forecast,3,48.6,581.5,0,0,1,6,13,118.1
+New Brunswick,2022-04-06,,forecast,2,66,861.7,0,0,1,4,12,112
+New Brunswick,2022-04-07,,forecast,2,161.7,2843.5,0,0,1,4,13,164
+Newfoundland and Labrador,2022-02-01,,estimate,143,145.6,37.3,89,119,134,153,168,210
+Newfoundland and Labrador,2022-02-02,,estimate,172,175.8,43.2,112,145,162,182.4,202,251
+Newfoundland and Labrador,2022-02-03,,estimate,181,184.9,46.3,117.9,151.8,169,193,215,263
+Newfoundland and Labrador,2022-02-04,,estimate,198,202.5,50.8,128,167,187,210,232,293
+Newfoundland and Labrador,2022-02-05,,estimate,194,198.6,49.1,126,165,183,206,228.2,284
+Newfoundland and Labrador,2022-02-06,,estimate,167,170.7,42.9,106,140,156,178,198,247
+Newfoundland and Labrador,2022-02-07,,estimate,168,172.6,42.4,111,143,158.6,179,199.2,247
+Newfoundland and Labrador,2022-02-08,,estimate,203,208.9,52.1,134,173,191,216,238,303
+Newfoundland and Labrador,2022-02-09,,estimate,255.5,260.9,63.4,168,218,240,270,299,374
+Newfoundland and Labrador,2022-02-10,,estimate,265,270.7,65.1,175,225,250,282,311,382
+Newfoundland and Labrador,2022-02-11,,estimate,293,298.5,70.6,194,248,276,312,341,424
+Newfoundland and Labrador,2022-02-12,,estimate,261,267.6,65.8,172,220,246,278.4,308,387
+Newfoundland and Labrador,2022-02-13,,estimate,205,209.5,51.5,134,173,193,218,241,300
+Newfoundland and Labrador,2022-02-14,,estimate,196,199.4,47.2,128,166,184,209,228,284
+Newfoundland and Labrador,2022-02-15,,estimate,220,224.4,52.8,144,188,207,233,258,320
+Newfoundland and Labrador,2022-02-16,,estimate,257,263.8,67.3,168,216.8,240.6,273.4,303.2,381
+Newfoundland and Labrador,2022-02-17,,estimate,261,267.2,64.9,172,222,246,278,308,385
+Newfoundland and Labrador,2022-02-18,,estimate,276,280,67.5,176.9,233,259,292,320,396
+Newfoundland and Labrador,2022-02-19,,estimate,248,256.4,63.6,163,211,235,266,297,373
+Newfoundland and Labrador,2022-02-20,,estimate,202,205.8,49.3,133,171,190,214,235,295
+Newfoundland and Labrador,2022-02-21,,estimate,192,195.6,47.6,125,163,181,203,224,280
+Newfoundland and Labrador,2022-02-22,,estimate,225.5,231.3,56.7,148,192,212.6,241.4,264,333
+Newfoundland and Labrador,2022-02-23,,estimate,278,285.8,68.8,185.9,238,264,295,324,407
+Newfoundland and Labrador,2022-02-24,,estimate,297,301.9,71.9,198,250,279,312,343.2,432
+Newfoundland and Labrador,2022-02-25,,estimate,331.5,339.6,80.6,220,283,313,351,387.2,483
+Newfoundland and Labrador,2022-02-26,,estimate,316.5,323.9,77.2,212.9,269,297,335,371,458
+Newfoundland and Labrador,2022-02-27,,estimate,266,273.3,69.3,174.9,225,247,284,315,395
+Newfoundland and Labrador,2022-02-28,,estimate,270,275.8,64.3,180,230,255,286,315,387
+Newfoundland and Labrador,2022-03-01,,estimate,329,337.2,83.1,215,279,309,348,385,488
+Newfoundland and Labrador,2022-03-02,,estimate,418.5,428.9,104,278.9,356,395,443.4,492,607.1
+Newfoundland and Labrador,2022-03-03,,estimate,456,466.9,112.9,298,390,431,486.4,534,656.1
+Newfoundland and Labrador,2022-03-04,,estimate,518.5,525.7,124.9,337,438,486.6,545,601,749
+Newfoundland and Labrador,2022-03-05,,estimate,493,502.2,119.5,325,417,462,520.4,571.2,705.1
+Newfoundland and Labrador,2022-03-06,,estimate,411.5,419.1,98.5,274,351,387,436,478,594
+Newfoundland and Labrador,2022-03-07,,estimate,404,413.5,99.3,263,347,382.6,428,471,587.1
+Newfoundland and Labrador,2022-03-08,,estimate,484,494.8,119,319,415,456,512,565,701
+Newfoundland and Labrador,2022-03-09,,estimate,589,606.8,146,396,506.8,559,627,691,872
+Newfoundland and Labrador,2022-03-10,,estimate,617,629.6,147.9,413,528,582,649,721,892
+Newfoundland and Labrador,2022-03-11,,estimate,661,674.3,156.8,433,563,624,701.4,769,955
+Newfoundland and Labrador,2022-03-12,,estimate,591,606.3,141.9,393,511,559,627.4,693,861.2
+Newfoundland and Labrador,2022-03-13,,estimate,471,482.7,119.4,313,400,445,497,550.2,694.1
+Newfoundland and Labrador,2022-03-14,,estimate,439,447.5,107.7,286.9,369,412,465.4,514,644
+Newfoundland and Labrador,2022-03-15,,estimate,495,506.1,120.1,329,424,465.6,523,578,714
+Newfoundland and Labrador,2022-03-16,,estimate,566.5,581.1,140.3,378.9,482,534.6,602,662.2,831
+Newfoundland and Labrador,2022-03-17,,estimate,568,580.4,134,386,487,536,603,666,813
+Newfoundland and Labrador,2022-03-18,,estimate,589,603.6,142.4,389.9,504,558,625,685,857
+Newfoundland and Labrador,2022-03-19,,estimate,509,522.4,125.6,338.9,433,479,541,599.2,739
+Newfoundland and Labrador,2022-03-20,,estimate,394,402.2,93.7,265,335,371,419,460,565
+Newfoundland and Labrador,2022-03-21,,estimate,359.5,367.5,89.1,241,304,337,381,422,529
+Newfoundland and Labrador,2022-03-22,,estimate based on partial data,402.5,411.7,100.8,266,341.8,379,429.4,470,591
+Newfoundland and Labrador,2022-03-23,,estimate based on partial data,465.5,471.2,110.9,309.9,396,436,489,536,668
+Newfoundland and Labrador,2022-03-24,,estimate based on partial data,458,466.7,112.7,302,389,431,484.4,537,669
+Newfoundland and Labrador,2022-03-25,,estimate based on partial data,479,490.9,119.8,310.9,408,454,511,564,702
+Newfoundland and Labrador,2022-03-26,,estimate based on partial data,428.5,439,102.5,285,367,406,458,503,619
+Newfoundland and Labrador,2022-03-27,,estimate based on partial data,333,337.4,77.3,217,284,314,353.4,386,471
+Newfoundland and Labrador,2022-03-28,,estimate based on partial data,311,317.5,76.8,205.9,262,292,330,364,458
+Newfoundland and Labrador,2022-03-29,,estimate based on partial data,354,363.5,90.3,236,301,332,374,416,530
+Newfoundland and Labrador,2022-03-30,,estimate based on partial data,416,426.6,106,268,353.8,390,443,489.2,608
+Newfoundland and Labrador,2022-03-31,,estimate based on partial data,425,434.2,117.6,261,354,394,453,501,651
+Newfoundland and Labrador,2022-04-01,,forecast,454.5,471.1,139.6,281,373,421,486,545.2,732
+Newfoundland and Labrador,2022-04-02,,forecast,401.5,430.1,154.4,233.9,324,370,440,513,708
+Newfoundland and Labrador,2022-04-03,,forecast,319,350.2,155.4,173.9,248,288,351,411,641
+Newfoundland and Labrador,2022-04-04,,forecast,302,344.8,191.2,151,222,265,341.4,416.2,675.4
+Newfoundland and Labrador,2022-04-05,,forecast,343,419.2,303,160.9,250,305,391,497,887.1
+Newfoundland and Labrador,2022-04-06,,forecast,403,531.3,486.4,169.9,278,350,473.8,620.2,1262.1
+Newfoundland and Labrador,2022-04-07,,forecast,413,600.8,780.7,152.9,272,351,487.4,681,1561.8
+Northwest Territories,2022-02-01,,estimate,124,130.6,51.2,59,95,112,137,160,225
+Northwest Territories,2022-02-02,,estimate,110,114.3,42.5,54,85,100,120,139,188
+Northwest Territories,2022-02-03,,estimate,106,111.8,45,49,81,96,116,136,194
+Northwest Territories,2022-02-04,,estimate,110,115.7,44.6,53,83,100,122,141,197
+Northwest Territories,2022-02-05,,estimate,0,0.2,0.4,0,0,0,0,0,1
+Northwest Territories,2022-02-06,,estimate,0,0.2,0.5,0,0,0,0,0,1
+Northwest Territories,2022-02-07,,estimate,238.5,250.7,97.2,117.9,180,216,264,306,428.1
+Northwest Territories,2022-02-08,,estimate,168,179.5,74.2,83,129,152,186,218,316
+Northwest Territories,2022-02-09,,estimate,152.5,160.6,63,74,115,138,168,194,273
+Northwest Territories,2022-02-10,,estimate,149,157.9,63.7,71,113,135,165,194,278
+Northwest Territories,2022-02-11,,estimate,151.5,163.7,66.9,75,117,138,168,200,286
+Northwest Territories,2022-02-12,,estimate,0,0.2,0.5,0,0,0,0,0,1
+Northwest Territories,2022-02-13,,estimate,0,0.2,0.5,0,0,0,0,0,1
+Northwest Territories,2022-02-14,,estimate,253,267.7,104.5,126,193,230,277,320,460.1
+Northwest Territories,2022-02-15,,estimate,161,171.5,66.4,82,125,147,179,208,296
+Northwest Territories,2022-02-16,,estimate,138,146.8,60.1,69,103.8,125,152,178,258
+Northwest Territories,2022-02-17,,estimate,120,128.9,53.2,59,92.8,110,134,159,222
+Northwest Territories,2022-02-18,,estimate,120,128,52.5,58,91,109,132.4,155,220
+Northwest Territories,2022-02-19,,estimate,0,0.2,0.4,0,0,0,0,0,1
+Northwest Territories,2022-02-20,,estimate,0,0.2,0.4,0,0,0,0,0,1
+Northwest Territories,2022-02-21,,estimate,178,187.9,75.8,89,134,160,197,227,330
+Northwest Territories,2022-02-22,,estimate,114,121.4,49.1,55,86.8,102,126,149,211
+Northwest Territories,2022-02-23,,estimate,97.5,102.9,42.1,46,73,88,107,125,180
+Northwest Territories,2022-02-24,,estimate,87,92,37.1,41,65,78,96,114,159
+Northwest Territories,2022-02-25,,estimate,82,87.8,35,41,64,74,91,107,152
+Northwest Territories,2022-02-26,,estimate,0,0.1,0.4,0,0,0,0,0,1
+Northwest Territories,2022-02-27,,estimate,0,0.1,0.4,0,0,0,0,0,1
+Northwest Territories,2022-02-28,,estimate,128,135.8,53.5,64,98,115,142,165.2,237
+Northwest Territories,2022-03-01,,estimate,84,88.8,34.9,41,65,77,92,106,154
+Northwest Territories,2022-03-02,,estimate,72,75.4,30,34,54,65,80,92,130
+Northwest Territories,2022-03-03,,estimate,68,71.1,28.4,32.9,51,61,74,86,122
+Northwest Territories,2022-03-04,,estimate,66,69.5,27.8,31,50,60,73,85,120
+Northwest Territories,2022-03-05,,estimate,0,0.1,0.3,0,0,0,0,0,1
+Northwest Territories,2022-03-06,,estimate,0,0.1,0.3,0,0,0,0,0,1
+Northwest Territories,2022-03-07,,estimate,106,111.8,44.5,50.9,80,95,118,136,196
+Northwest Territories,2022-03-08,,estimate,71,74.5,28.6,34,54,65,79,91,125
+Northwest Territories,2022-03-09,,estimate,60,63.3,25.8,29,45,54,66,78,110
+Northwest Territories,2022-03-10,,estimate,57,60.7,25.2,26,43,51,64,76,106
+Northwest Territories,2022-03-11,,estimate,57,60.6,24.7,27,43,51,63,75,106
+Northwest Territories,2022-03-12,,estimate,0,0.1,0.3,0,0,0,0,0,1
+Northwest Territories,2022-03-13,,estimate,0,0.1,0.3,0,0,0,0,0,1
+Northwest Territories,2022-03-14,,estimate,98,104.6,42.3,47,75,88,109,127,181
+Northwest Territories,2022-03-15,,estimate,69,72.3,29.3,33,52,62,75,87,125
+Northwest Territories,2022-03-16,,estimate,61,64.6,26.4,29,46,55,67,79,112
+Northwest Territories,2022-03-17,,estimate,59,63.3,26.8,28,44,53,66,78,112
+Northwest Territories,2022-03-18,,estimate,63,66.7,28,28,47,57,70,81,117
+Northwest Territories,2022-03-19,,estimate,0,0.1,0.3,0,0,0,0,0,1
+Northwest Territories,2022-03-20,,estimate,0,0.1,0.3,0,0,0,0,0,1
+Northwest Territories,2022-03-21,,estimate,124.5,131.9,54.9,61,95,112,138,161,225
+Northwest Territories,2022-03-22,,estimate based on partial data,88,93.7,39.4,42,66,80,96,113.2,166
+Northwest Territories,2022-03-23,,estimate based on partial data,83,88.1,35.8,40,63,75,91,107,154
+Northwest Territories,2022-03-24,,estimate based on partial data,81,86.8,36,39,61,73,90,107,151.1
+Northwest Territories,2022-03-25,,estimate based on partial data,89,94.7,39.4,42,67,80,98,115,164
+Northwest Territories,2022-03-26,,estimate based on partial data,0,0.1,0.4,0,0,0,0,0,1
+Northwest Territories,2022-03-27,,estimate based on partial data,0,0.1,0.4,0,0,0,0,0,1
+Northwest Territories,2022-03-28,,estimate based on partial data,174,185.3,76.1,81,131,157,193,224.2,327.1
+Northwest Territories,2022-03-29,,estimate based on partial data,124,133.3,59,59,93,110,136,162,240.1
+Northwest Territories,2022-03-30,,estimate based on partial data,113,122.3,53.4,52.9,85,102,127,150,222
+Northwest Territories,2022-03-31,,estimate based on partial data,111,120.7,55.2,50.9,82,99,124,148,224
+Northwest Territories,2022-04-01,,forecast,116,130.4,70.9,50,85,103.6,131,158,254.1
+Northwest Territories,2022-04-02,,forecast,0,0.2,0.5,0,0,0,0,0,1
+Northwest Territories,2022-04-03,,forecast,0,0.2,0.5,0,0,0,0,0,1
+Northwest Territories,2022-04-04,,forecast,221,274.7,227.8,80,145,187,257,336,630.2
+Northwest Territories,2022-04-05,,forecast,150,205.9,200.8,49,93,125,181,243,524
+Northwest Territories,2022-04-06,,forecast,135,201.9,287.6,40,80,108.6,165,231,529
+Northwest Territories,2022-04-07,,forecast,128,215.8,380.9,33,72,103,161,235,599.2
+Nova Scotia,2022-02-01,,estimate,1649.5,4835.9,8637.5,12,365.8,968.4,2753.2,5485,20661.1
+Nova Scotia,2022-02-02,,estimate,77.5,205.1,359.2,0,18,46,121,236,805.4
+Nova Scotia,2022-02-03,,estimate,95,274.9,510.1,1,21.8,56,156,298.2,1164.8
+Nova Scotia,2022-02-04,,estimate,127,386.2,754.4,1,28,78,211,403.2,1732.4
+Nova Scotia,2022-02-05,,estimate,83,231.3,445.2,0,18,51,133.4,260.2,932.1
+Nova Scotia,2022-02-06,,estimate,97,290.8,616.8,0,20,57,149.4,298.2,1212.6
+Nova Scotia,2022-02-07,,estimate,82,232.4,448.2,0,18,49,133,250,931.1
+Nova Scotia,2022-02-08,,estimate,5731.5,17652.6,38173.8,35,1171.5,3296,9261,20368.5,73327.5
+Nova Scotia,2022-02-09,,estimate,220.5,627.3,1194.5,2,47,135,345.4,721.5,2539.1
+Nova Scotia,2022-02-10,,estimate,247,727.7,1382.7,2,49.8,145,406.4,816.2,2968.7
+Nova Scotia,2022-02-11,,estimate,331.5,916.1,1602.5,2,69,191.6,539.4,1107.2,3696.5
+Nova Scotia,2022-02-12,,estimate,161,494.2,970.4,1,32,90.2,275,559.5,2030.2
+Nova Scotia,2022-02-13,,estimate,165.5,468.5,887.5,1,37,96,265.4,537.2,1874.2
+Nova Scotia,2022-02-14,,estimate,131,371.3,695.2,1,26,76,200,406.5,1543
+Nova Scotia,2022-02-15,,estimate,7725.5,24922,55217.2,68.9,1683.5,4889,13000.2,25219.5,102356
+Nova Scotia,2022-02-16,,estimate,258.5,755,1349.2,2,60,146,404,884.5,3229.8
+Nova Scotia,2022-02-17,,estimate,270.5,785.8,1633.8,2,59,162,422.4,850.2,3032
+Nova Scotia,2022-02-18,,estimate,319,837.5,1531.3,2,69,190.2,482.4,960.8,3227.2
+Nova Scotia,2022-02-19,,estimate,147,430.8,892.9,1,32,86,235,455,1796.2
+Nova Scotia,2022-02-20,,estimate,140,377.6,734.8,1,30,86,212,415.2,1525.6
+Nova Scotia,2022-02-21,,estimate,84,245.3,440.6,0,20,53,144,272.2,963.1
+Nova Scotia,2022-02-22,,estimate,4754,14297.2,25477.9,41.9,1093.2,2791.8,7552.6,15735.5,63851.2
+Nova Scotia,2022-02-23,,estimate,170.5,447.7,888.5,1,37,100,269,518,1692.3
+Nova Scotia,2022-02-24,,estimate,157,407.3,691.1,1,34,96,250,477.2,1620.3
+Nova Scotia,2022-02-25,,estimate,152,429.5,779.1,1,40,95,245,484.5,1745.2
+Nova Scotia,2022-02-26,,estimate,74,203.4,379,0,14,43,116,231,868
+Nova Scotia,2022-02-27,,estimate,53,157.5,311.3,0,12,32,81,168.2,622.1
+Nova Scotia,2022-02-28,,estimate,37,102.2,229,0,7,21,57.4,111,374
+Nova Scotia,2022-03-01,,estimate,2157,5857.6,10605.6,16,461.5,1273.2,3450.2,6994.8,23154.3
+Nova Scotia,2022-03-02,,estimate,62,176.8,353.2,0,13,36,99.4,184.2,741
+Nova Scotia,2022-03-03,,estimate,55.5,150.5,248.5,0,13,33,92,182.2,627
+Nova Scotia,2022-03-04,,estimate,56,167.9,338.4,0,11,33,87,181.2,717
+Nova Scotia,2022-03-05,,estimate,25,74,139.8,0,5,15,40,80,310.2
+Nova Scotia,2022-03-06,,estimate,20,62.4,121.2,0,4,12,32,69,254.1
+Nova Scotia,2022-03-07,,estimate,13,38.2,77.4,0,3,7,21,41,157
+Nova Scotia,2022-03-08,,estimate,711.5,1890.6,3419.7,4,150,410,1150.8,2193,7258.5
+Nova Scotia,2022-03-09,,estimate,21,63.6,144.4,0,4,12,34,67,267
+Nova Scotia,2022-03-10,,estimate,22,59.9,107.8,0,5,12,35,68.2,248
+Nova Scotia,2022-03-11,,estimate,21,57.7,103.7,0,4,12,34,66,242
+Nova Scotia,2022-03-12,,estimate,8,31,73.4,0,2,5,14,30,131.1
+Nova Scotia,2022-03-13,,estimate,8,26.2,62,0,1,4,13,26,110
+Nova Scotia,2022-03-14,,estimate,4,17.7,89,0,1,2,7,16,73
+Nova Scotia,2022-03-15,,estimate,321,780.3,1254.7,2,64,182,519.2,1007.2,2928.1
+Nova Scotia,2022-03-16,,estimate,9,28.4,56.1,0,2,5,14,31,123
+Nova Scotia,2022-03-17,,estimate,9,28.8,55,0,2,5,15,31,127
+Nova Scotia,2022-03-18,,estimate,10,32.9,74,0,2,6,16,34,126
+Nova Scotia,2022-03-19,,estimate,5,18.6,45,0,1,3,8,18,73
+Nova Scotia,2022-03-20,,estimate,4,16.3,38.5,0,1,2,7,15,67
+Nova Scotia,2022-03-21,,estimate,3,12.3,30,0,0,2,6,11,53
+Nova Scotia,2022-03-22,,estimate based on partial data,228,531.8,812.8,2,50,141,383.8,680.8,1944.3
+Nova Scotia,2022-03-23,,estimate based on partial data,7,25.9,58.1,0,1,4,12,26,107
+Nova Scotia,2022-03-24,,estimate based on partial data,9,28.9,70.6,0,2,5,14,28,123
+Nova Scotia,2022-03-25,,estimate based on partial data,9,32.5,76.5,0,2,5,15,30,133
+Nova Scotia,2022-03-26,,estimate based on partial data,6,20.9,49.9,0,1,3,10,20,86
+Nova Scotia,2022-03-27,,estimate based on partial data,5,22,67.5,0,1,3,9,20,90
+Nova Scotia,2022-03-28,,estimate based on partial data,4,17.8,49.7,0,1,2,7,15,77
+Nova Scotia,2022-03-29,,estimate based on partial data,320.5,905.2,1753.1,1,72,194,518.8,989.5,3579.1
+Nova Scotia,2022-03-30,,estimate based on partial data,12,48.7,125.1,0,2,7,20,44,203.1
+Nova Scotia,2022-03-31,,estimate based on partial data,13,64,239.4,0,2,7,21,49,267.3
+Nova Scotia,2022-04-01,,forecast,18,101.6,332.4,0,3,10,31,73,457.1
+Nova Scotia,2022-04-02,,forecast,11,93.9,741.7,0,2,6,19,45,325
+Nova Scotia,2022-04-03,,forecast,11,162.9,1042,0,2,6,20,52,592.9
+Nova Scotia,2022-04-04,,forecast,10,349.2,5422.1,0,1,5,19,49,566.3
+Nova Scotia,2022-04-05,,forecast,669,32055.4,661997.7,5,116.8,380.6,1304.4,3501.2,35580
+Nova Scotia,2022-04-06,,forecast,26,1667,22283.7,0,4,13,50,137.5,2215.4
+Nova Scotia,2022-04-07,,forecast,27,18362.2,552585.2,0,4,13,62,232.2,3831.9
+Nunavut,2022-02-01,,estimate,32,72,106.8,0,8,20,48.4,91.2,277
+Nunavut,2022-02-02,,estimate,9,21.2,32.2,0,2,6,14,26,83
+Nunavut,2022-02-03,,estimate,7,14.6,23.6,0,1,4,10,17,58
+Nunavut,2022-02-04,,estimate,14,33.3,53.5,0,3,9,22,39,134
+Nunavut,2022-02-05,,estimate,0,0.2,0.8,0,0,0,0,0,1
+Nunavut,2022-02-06,,estimate,0,0.2,0.8,0,0,0,0,0,1
+Nunavut,2022-02-07,,estimate,25,59.3,100,0,6,15,38,68,238
+Nunavut,2022-02-08,,estimate,63,151.6,252.4,0,13,35,97.4,185,627.1
+Nunavut,2022-02-09,,estimate,19,47.4,79.3,0,5,11,29,55,189.1
+Nunavut,2022-02-10,,estimate,14,32.6,49.5,0,3,8,21.4,39,136.1
+Nunavut,2022-02-11,,estimate,34,79.7,133.1,0,8,20,51,94,316
+Nunavut,2022-02-12,,estimate,0,0.4,1.5,0,0,0,0,0,2
+Nunavut,2022-02-13,,estimate,0,0.5,1.6,0,0,0,0,0,3
+Nunavut,2022-02-14,,estimate,50,114,183.5,0,12,31,76,136.5,423.2
+Nunavut,2022-02-15,,estimate,114,278.5,495.3,1,27,69,172,325.5,1110.7
+Nunavut,2022-02-16,,estimate,34,75.3,115.7,0,8,21,51,99,274.1
+Nunavut,2022-02-17,,estimate,21,52.4,86.5,0,6,14,33,63,205
+Nunavut,2022-02-18,,estimate,44,116.3,201.5,0,10,27,70.4,130,495
+Nunavut,2022-02-19,,estimate,0,0.6,1.6,0,0,0,0,1,3
+Nunavut,2022-02-20,,estimate,0,0.6,1.7,0,0,0,0,0,3
+Nunavut,2022-02-21,,estimate,50,117.3,190.1,0,13,30.6,79,147,430
+Nunavut,2022-02-22,,estimate,107.5,270.4,465.6,1,27,67,168,312,1067.4
+Nunavut,2022-02-23,,estimate,33,71.5,106.3,0,9,20,49.4,88.2,274
+Nunavut,2022-02-24,,estimate,19,48.6,88.2,0,5,12,30,56,184
+Nunavut,2022-02-25,,estimate,41,94.1,152,0,10.8,26,60,113,350
+Nunavut,2022-02-26,,estimate,0,0.5,2.9,0,0,0,0,0,2
+Nunavut,2022-02-27,,estimate,0,0.5,2.3,0,0,0,0,0,2
+Nunavut,2022-02-28,,estimate,37,85.5,131.3,0,9,23,57,103,359
+Nunavut,2022-03-01,,estimate,86,198,300.2,1,21,51,134,251,774.3
+Nunavut,2022-03-02,,estimate,22,48.4,77.7,0,5,13,34,62,178
+Nunavut,2022-03-03,,estimate,14,31.9,50.3,0,3,9,22,40,124
+Nunavut,2022-03-04,,estimate,24,56.2,88.1,0,5,14,38,69,217.2
+Nunavut,2022-03-05,,estimate,0,0.3,1,0,0,0,0,0,2
+Nunavut,2022-03-06,,estimate,0,0.3,0.9,0,0,0,0,0,1
+Nunavut,2022-03-07,,estimate,21,51.8,82.1,0,5,13,33,65,204
+Nunavut,2022-03-08,,estimate,44,108.3,186.8,0,10,26.6,68,125,433.2
+Nunavut,2022-03-09,,estimate,11,25,37.5,0,3,7,16,31,95.1
+Nunavut,2022-03-10,,estimate,6,17.1,30.8,0,1,4,10,19,73
+Nunavut,2022-03-11,,estimate,13,30.1,51.5,0,3,8,20,37,116
+Nunavut,2022-03-12,,estimate,0,0.1,0.5,0,0,0,0,0,1
+Nunavut,2022-03-13,,estimate,0,0.1,0.5,0,0,0,0,0,1
+Nunavut,2022-03-14,,estimate,10,24.1,40.2,0,2,6,15,29,99
+Nunavut,2022-03-15,,estimate,19,47.4,79.2,0,5,12,30,56.2,181.1
+Nunavut,2022-03-16,,estimate,5,12.6,21.5,0,1,3,8,15,49
+Nunavut,2022-03-17,,estimate,3,8.1,15.6,0,0,2,5,9,32
+Nunavut,2022-03-18,,estimate,6,15.4,27,0,1,4,10,18,61
+Nunavut,2022-03-19,,estimate,0,0.1,0.4,0,0,0,0,0,1
+Nunavut,2022-03-20,,estimate,0,0.1,0.3,0,0,0,0,0,1
+Nunavut,2022-03-21,,estimate,5,13.6,26.3,0,1,3,8,15,55
+Nunavut,2022-03-22,,estimate based on partial data,10,24,36.5,0,2,6,16,30,91
+Nunavut,2022-03-23,,estimate based on partial data,3,7.1,11.8,0,1,2,4,9,27
+Nunavut,2022-03-24,,estimate based on partial data,2,4.3,8.2,0,0,1,3,5,17
+Nunavut,2022-03-25,,estimate based on partial data,3,8.2,14.8,0,0,2,5,10,33
+Nunavut,2022-03-26,,estimate based on partial data,0,0,0.2,0,0,0,0,0,0
+Nunavut,2022-03-27,,estimate based on partial data,0,0,0.3,0,0,0,0,0,0
+Nunavut,2022-03-28,,estimate based on partial data,3,8.2,14.9,0,0.8,2,5,9,33
+Nunavut,2022-03-29,,estimate based on partial data,6,13.8,22,0,1,4,10,17,52
+Nunavut,2022-03-30,,estimate based on partial data,1,5.2,11.6,0,0,1,2,5,22
+Nunavut,2022-03-31,,estimate based on partial data,1,3.5,8.8,0,0,0,2,3.2,14
+Nunavut,2022-04-01,,forecast,2,7.3,18.3,0,0,1,3,7,30
+Nunavut,2022-04-02,,forecast,0,0,0.2,0,0,0,0,0,0
+Nunavut,2022-04-03,,forecast,0,0.1,0.4,0,0,0,0,0,0
+Nunavut,2022-04-04,,forecast,2,17.7,212,0,0,1,3,7,40
+Nunavut,2022-04-05,,forecast,4,32.9,216.8,0,1,2,6,16,92
+Nunavut,2022-04-06,,forecast,1,21.3,180.9,0,0,0,2,5,41
+Nunavut,2022-04-07,,forecast,0,17.7,267.6,0,0,0,1,3,33
+Ontario,2022-02-01,,estimate,2206,2205.3,267.5,1777.8,2018,2127.6,2272,2385,2645
+Ontario,2022-02-02,,estimate,3355,3357.5,382.1,2719,3105,3260.6,3448.4,3613.2,4004
+Ontario,2022-02-03,,estimate,3680.5,3686.4,408.9,3034.9,3406.8,3578,3775.4,3952,4382
+Ontario,2022-02-04,,estimate,3650,3667.3,419.7,2992.8,3377,3550,3755,3944,4380
+Ontario,2022-02-05,,estimate,3422,3436.6,392.3,2827.9,3166.8,3321.6,3511,3688.2,4103
+Ontario,2022-02-06,,estimate,2947.5,2954.3,329.6,2422.9,2739.8,2867.6,3022.4,3162.2,3504
+Ontario,2022-02-07,,estimate,2094.5,2105.9,242.2,1725,1935,2033.6,2160.4,2263.2,2520
+Ontario,2022-02-08,,estimate,2118,2129.7,237.4,1760,1969,2060,2172,2284,2537
+Ontario,2022-02-09,,estimate,3265,3288.2,370.4,2731,3031,3179.6,3360.4,3520.2,3946.1
+Ontario,2022-02-10,,estimate,3601,3621.2,405.3,3007,3350.8,3502,3689,3857,4309.2
+Ontario,2022-02-11,,estimate,3472,3498.1,386.6,2898.9,3228,3372,3575,3753,4177
+Ontario,2022-02-12,,estimate,3031,3057.6,350.2,2530.9,2817,2943.6,3118.4,3273.5,3669.1
+Ontario,2022-02-13,,estimate,2425,2439.9,270.9,2021.9,2253,2362,2498,2607,2900
+Ontario,2022-02-14,,estimate,1618,1626.9,189.2,1336,1497.8,1574,1664,1741,1954.3
+Ontario,2022-02-15,,estimate,1557,1566.5,177.6,1296,1448,1518.6,1603,1678,1867
+Ontario,2022-02-16,,estimate,2321,2333.5,260.4,1931.9,2154.8,2255,2391,2505.2,2781
+Ontario,2022-02-17,,estimate,2529.5,2544.4,280.7,2112,2348,2458,2608,2734,3013.1
+Ontario,2022-02-18,,estimate,2454,2470.6,273.4,2042,2281.8,2391.6,2527,2643.2,2938.1
+Ontario,2022-02-19,,estimate,2213,2221.9,254.1,1822,2052,2150,2274,2384,2649.1
+Ontario,2022-02-20,,estimate,1829,1835.3,205.8,1508.9,1698,1783,1876,1965.2,2183
+Ontario,2022-02-21,,estimate,1272,1282,146.6,1058,1183,1237,1309,1374,1532
+Ontario,2022-02-22,,estimate,1277,1282.2,146.2,1054.9,1183,1240,1318,1376,1527
+Ontario,2022-02-23,,estimate,1997.5,2006.3,225.4,1646,1849.8,1942,2054,2157,2386.1
+Ontario,2022-02-24,,estimate,2266,2278.9,258.9,1878,2102.8,2200,2330.4,2439,2717.1
+Ontario,2022-02-25,,estimate,2279.5,2293.5,262.1,1885,2105.8,2219.6,2347,2460,2748.1
+Ontario,2022-02-26,,estimate,2115,2122.6,239.7,1747,1962.8,2059,2174,2270,2521
+Ontario,2022-02-27,,estimate,1792,1798.3,209.1,1472,1659.8,1739,1837,1923,2147.1
+Ontario,2022-02-28,,estimate,1246,1252.9,145.8,1031.9,1152,1207,1283,1348,1509
+Ontario,2022-03-01,,estimate,1275,1278.5,145.5,1048.9,1181,1241.6,1308,1372,1529
+Ontario,2022-03-02,,estimate,1981,1994.8,225.8,1653,1845,1929,2033,2129.2,2396.1
+Ontario,2022-03-03,,estimate,2236.5,2246.9,245.8,1860,2076,2176.6,2301.4,2400.2,2665
+Ontario,2022-03-04,,estimate,2224,2236.1,250.6,1854,2066,2160.6,2281,2385,2679.1
+Ontario,2022-03-05,,estimate,2025,2038.6,232.7,1675.8,1881,1968,2077,2182,2444.1
+Ontario,2022-03-06,,estimate,1695,1707.7,195,1407,1574,1653,1742.4,1822,2048
+Ontario,2022-03-07,,estimate,1187,1193.5,140.4,980,1099,1153,1223.4,1283,1422
+Ontario,2022-03-08,,estimate,1196,1199.9,138,984,1107,1159.6,1228,1285,1437
+Ontario,2022-03-09,,estimate,1852.5,1862.2,211.5,1535.9,1719,1802,1903,1992,2230.1
+Ontario,2022-03-10,,estimate,2088,2099.2,231.1,1741,1940,2034.6,2146,2240,2498.1
+Ontario,2022-03-11,,estimate,2094,2110,239.7,1736.9,1945.8,2043,2157,2264.2,2514.1
+Ontario,2022-03-12,,estimate,1957.5,1961.3,223.6,1611,1809.8,1903,2010,2099.5,2341.1
+Ontario,2022-03-13,,estimate,1639,1649.8,186.3,1358,1525,1595,1683,1764,1972
+Ontario,2022-03-14,,estimate,1166,1169.9,130,962.9,1085.8,1136,1198,1253,1393
+Ontario,2022-03-15,,estimate,1196,1202.8,138,989.9,1108.8,1164.6,1227,1283,1447
+Ontario,2022-03-16,,estimate,1893,1901.7,222.6,1557.9,1749,1836.6,1949,2043.2,2283.1
+Ontario,2022-03-17,,estimate,2191.5,2202.6,248.4,1827,2027.8,2131,2251,2350,2632.1
+Ontario,2022-03-18,,estimate,2241,2255.4,248.2,1869,2084,2184,2305.4,2411.2,2680.2
+Ontario,2022-03-19,,estimate,2114.5,2126.1,238.7,1747,1967,2054,2176,2281.2,2518.1
+Ontario,2022-03-20,,estimate,1836.5,1839.8,205.4,1514,1703,1784,1882,1972,2189
+Ontario,2022-03-21,,estimate,1321,1329.5,151.7,1092,1219,1286.6,1362,1427.2,1586
+Ontario,2022-03-22,,estimate based on partial data,1385,1388.6,160.3,1140,1275,1342.6,1421,1492.2,1661
+Ontario,2022-03-23,,estimate based on partial data,2239,2244.4,259,1824.8,2075.8,2170,2303.4,2411,2683.1
+Ontario,2022-03-24,,estimate based on partial data,2621,2631.3,292.6,2163,2440,2546.6,2693,2811.2,3133.1
+Ontario,2022-03-25,,estimate based on partial data,2713,2727.4,317.5,2245.9,2506,2645.6,2796,2916.2,3246.1
+Ontario,2022-03-26,,estimate based on partial data,2579.5,2603,295.7,2140,2400,2512,2656,2787,3132.1
+Ontario,2022-03-27,,estimate based on partial data,2253,2264.8,261.4,1857,2076.8,2184.6,2327,2441,2702.1
+Ontario,2022-03-28,,estimate based on partial data,1635,1643,190.2,1349,1513,1584.6,1682.4,1763,1960
+Ontario,2022-03-29,,estimate based on partial data,1711,1717.5,199.3,1408,1576,1656,1757.4,1849,2059.1
+Ontario,2022-03-30,,estimate based on partial data,2722,2737.2,321.1,2243.9,2511,2637.6,2806,2950.2,3289
+Ontario,2022-03-31,,estimate based on partial data,3170.5,3189.3,408.5,2568,2904,3074,3275,3435,3891
+Ontario,2022-04-01,,forecast,3255,3298.6,504.6,2553,2959,3136.6,3390.4,3596.2,4175
+Ontario,2022-04-02,,forecast,3070,3128.3,604.6,2252.9,2695.5,2931.2,3201,3487.2,4192.2
+Ontario,2022-04-03,,forecast,2625.5,2710.5,668.4,1783.8,2263.8,2477,2782.4,3058,3882.2
+Ontario,2022-04-04,,forecast,1852.5,1968.9,639.5,1199.9,1551,1731.6,1985,2247,3169
+Ontario,2022-04-05,,forecast,1902.5,2080.9,883.3,1129.9,1523,1740.6,2075,2406.2,3629.4
+Ontario,2022-04-06,,forecast,3005.5,3392.9,1842.7,1607,2308.8,2710,3311.4,3932.8,6437.1
+Ontario,2022-04-07,,forecast,3428,4091.5,3072.8,1640,2542,3070.2,3845.4,4723.2,8592.5
+Prince Edward Island,2022-02-01,,estimate,214.5,635.9,1226,1,40,123.6,360,718.8,2510.1
+Prince Edward Island,2022-02-02,,estimate,77.5,247.4,473.3,0,13,43,140,281,1075
+Prince Edward Island,2022-02-03,,estimate,26,76.2,140.4,0,5,15,43,85,318
+Prince Edward Island,2022-02-04,,estimate,85,277.7,597.6,0,17,47,142.4,302,1107.2
+Prince Edward Island,2022-02-05,,estimate,12,42.4,95.9,0,2,7,21,43,169
+Prince Edward Island,2022-02-06,,estimate,23,79.2,215.8,0,5,13,38,77,313.2
+Prince Edward Island,2022-02-07,,estimate,169,574.5,1238.1,1,34,100,282.4,581.2,2298.3
+Prince Edward Island,2022-02-08,,estimate,516.5,1703.2,3333.2,3,113.8,312,837.6,1763.8,7982.4
+Prince Edward Island,2022-02-09,,estimate,219,673.7,1452.6,1,39,121.8,335.8,706.8,2826.8
+Prince Edward Island,2022-02-10,,estimate,74,213.8,397.9,0,13.8,40,124.4,256,852.1
+Prince Edward Island,2022-02-11,,estimate,252,767.2,1519,1,45,141.6,422,857.5,2976.1
+Prince Edward Island,2022-02-12,,estimate,32,96.9,186.7,0,7,19,54,101.2,413
+Prince Edward Island,2022-02-13,,estimate,58,179.8,492.5,0,11.8,34,94,197,741.1
+Prince Edward Island,2022-02-14,,estimate,348.5,1064.5,2171.2,2,71.8,206.2,595.8,1163,4274.6
+Prince Edward Island,2022-02-15,,estimate,1006.5,3301.4,6354.9,5,189,559.6,1692.4,3498,14363.3
+Prince Edward Island,2022-02-16,,estimate,363,1078,2007.1,2,79.8,210.6,592.4,1257,4344.6
+Prince Edward Island,2022-02-17,,estimate,110.5,328.1,703.1,0,19,61,179,368,1317.3
+Prince Edward Island,2022-02-18,,estimate,313.5,973.7,1849.4,2,63,189,517,1076.2,3893.1
+Prince Edward Island,2022-02-19,,estimate,38,122.1,227.5,0,7,22,63.4,132,536.3
+Prince Edward Island,2022-02-20,,estimate,63,211.8,440.9,0,13,35,110,225,887
+Prince Edward Island,2022-02-21,,estimate,385,1142.8,2023.5,2,70,200,634.4,1286.5,5108.1
+Prince Edward Island,2022-02-22,,estimate,1164.5,3595.1,8804.3,8,225,638.2,1844.4,3626.2,14400.9
+Prince Edward Island,2022-02-23,,estimate,359,1082.2,1976.4,2,72.8,206.6,619.4,1207,4615.7
+Prince Edward Island,2022-02-24,,estimate,103,316.2,618.8,0,20,62.6,172,338,1307.1
+Prince Edward Island,2022-02-25,,estimate,294,816.3,1552.1,1,61,168,468,872.5,3433.4
+Prince Edward Island,2022-02-26,,estimate,32,101.2,200.6,0,5,17,51,105,434
+Prince Edward Island,2022-02-27,,estimate,56,177.1,372.3,0,11,30.6,92,178,765.6
+Prince Edward Island,2022-02-28,,estimate,302.5,853,1611.9,1,63,169.6,516,1033.2,3335.4
+Prince Edward Island,2022-03-01,,estimate,841.5,2512.1,4999,4,160.8,477,1320.8,2681,10599.2
+Prince Edward Island,2022-03-02,,estimate,277,832.8,1651.6,2,53,158,448,917.5,3376.6
+Prince Edward Island,2022-03-03,,estimate,68.5,234.7,467.6,0,14,41,116,262.2,965.2
+Prince Edward Island,2022-03-04,,estimate,194,567.4,1153.8,1,35,112.6,308.4,593,2305.6
+Prince Edward Island,2022-03-05,,estimate,23,82,206.1,0,4,13,39,82,338.1
+Prince Edward Island,2022-03-06,,estimate,37,118.5,311.1,0,6,20,60.4,121.2,457
+Prince Edward Island,2022-03-07,,estimate,194,553.6,1072.9,1,42.8,114.6,309.4,637.2,2253
+Prince Edward Island,2022-03-08,,estimate,492,1501,3125.4,2,92.8,287,811.4,1714.5,5968.3
+Prince Edward Island,2022-03-09,,estimate,186,457.1,746.5,1,39,111,281.8,559.8,1852.6
+Prince Edward Island,2022-03-10,,estimate,50,143.4,291.5,0,11,31,78,153,557.4
+Prince Edward Island,2022-03-11,,estimate,119.5,331.7,558.9,0,23,69,197.4,393.2,1425.6
+Prince Edward Island,2022-03-12,,estimate,14,50.3,125.3,0,2,8,24,47,210
+Prince Edward Island,2022-03-13,,estimate,20,78.3,226.5,0,4,11,33,69,315
+Prince Edward Island,2022-03-14,,estimate,121,320.3,558.3,1,24,70,191.4,375,1312.6
+Prince Edward Island,2022-03-15,,estimate,296.5,832.1,1511.2,2,59,172,506.2,997.8,3418.9
+Prince Edward Island,2022-03-16,,estimate,103,288.6,555.3,0,20,59,160.4,325,1133.4
+Prince Edward Island,2022-03-17,,estimate,27,88.1,175.1,0,5,15,43,88.2,403.1
+Prince Edward Island,2022-03-18,,estimate,72,227.6,421.8,0,14,42,118.4,243,1023
+Prince Edward Island,2022-03-19,,estimate,8,33.7,87.5,0,1,5,13,30,144
+Prince Edward Island,2022-03-20,,estimate,13,50.7,120.8,0,3,8,21,46.2,221
+Prince Edward Island,2022-03-21,,estimate,75,227.7,448.9,0,13,43,121,263.5,904
+Prince Edward Island,2022-03-22,,estimate based on partial data,205.5,543.9,898.1,1,40,121,342,669.5,2173.8
+Prince Edward Island,2022-03-23,,estimate based on partial data,72,206,370,0,14,42,114.4,238,844.5
+Prince Edward Island,2022-03-24,,estimate based on partial data,18,66.8,157.8,0,3,10,30,65,278
+Prince Edward Island,2022-03-25,,estimate based on partial data,49,168.2,327.7,0,9,28,80,171,695.1
+Prince Edward Island,2022-03-26,,estimate based on partial data,5,28,104,0,1,3,9,21,107.1
+Prince Edward Island,2022-03-27,,estimate based on partial data,9,41,121.4,0,1,5,15,36,171
+Prince Edward Island,2022-03-28,,estimate based on partial data,62,206.7,472.4,0,12,36,101,204.8,862.4
+Prince Edward Island,2022-03-29,,estimate based on partial data,160,478.1,982.6,0,33,93,251,539.5,1880.4
+Prince Edward Island,2022-03-30,,estimate based on partial data,53,200.7,516.6,0,9,27,91,182,847.2
+Prince Edward Island,2022-03-31,,estimate based on partial data,12,68.6,259.4,0,2,6,22,52,282
+Prince Edward Island,2022-04-01,,forecast,39,304,2520.2,0,8,22,65,154,985.5
+Prince Edward Island,2022-04-02,,forecast,4,53.6,912.6,0,1,2,8,20,135
+Prince Edward Island,2022-04-03,,forecast,7,111.4,1884.1,0,1,4,13,31,248.2
+Prince Edward Island,2022-04-04,,forecast,45,872,17240.5,0,8,25,78,191,1459.8
+Prince Edward Island,2022-04-05,,forecast,124,1040.7,6012.1,0,22,67.6,219.4,509,3347
+Prince Edward Island,2022-04-06,,forecast,41,13779.2,566925.9,0,7,22,75,210.2,2182
+Prince Edward Island,2022-04-07,,forecast,11,1813.6,68275.9,0,2,6,21,60,669
+Quebec,2022-02-01,,estimate,1283,1794,1775.7,117.9,584,968.6,1650.8,2349,5316.8
+Quebec,2022-02-02,,estimate,1770.5,2489.2,2422,204.8,859,1374.2,2305,3302,7229.7
+Quebec,2022-02-03,,estimate,1595,2243.4,2212,171,722,1223.6,2066,2987,6409.1
+Quebec,2022-02-04,,estimate,1662.5,2347.7,2315.6,195.8,743.8,1241,2128.6,3145,7034.9
+Quebec,2022-02-05,,estimate,1012.5,1490.6,1621.5,88.9,470,765,1280.8,1949.5,4509
+Quebec,2022-02-06,,estimate,2119.5,2987.5,3063.8,222.9,925.8,1584.6,2703.4,3940.8,8861.3
+Quebec,2022-02-07,,estimate,1409.5,2101.7,2198.6,152,658.8,1084.6,1855,2712,6137.4
+Quebec,2022-02-08,,estimate,1974,2832.9,3005.6,208.9,928,1538,2482.8,3669.8,8739.7
+Quebec,2022-02-09,,estimate,2923,4178.8,4181.4,280.6,1305.8,2118.6,3824.6,5537.5,12826
+Quebec,2022-02-10,,estimate,2858,4078.1,4199.7,293,1351.5,2197.6,3787.4,5307.2,11797.2
+Quebec,2022-02-11,,estimate,2754,3818.1,3926.6,290.9,1246,2054,3464,5122.2,10903.2
+Quebec,2022-02-12,,estimate,1519,2206.9,2381.8,149.9,704.5,1155.6,1964.8,2977.8,6495.9
+Quebec,2022-02-13,,estimate,2832.5,4173,4386.4,334.5,1317,2143.2,3653.8,5415,12816.1
+Quebec,2022-02-14,,estimate,1700,2506,2654.3,185.9,775.5,1273.2,2202,3301,7804.1
+Quebec,2022-02-15,,estimate,2167.5,3073.8,3153.6,207.5,1002.8,1655.6,2794.8,3993,8924.7
+Quebec,2022-02-16,,estimate,2974.5,4096.8,4181.5,313.9,1407,2270.4,3761.6,5273.8,11859
+Quebec,2022-02-17,,estimate,2544.5,3532.7,3365.5,273.8,1200,1914.8,3227,4737.2,10768.3
+Quebec,2022-02-18,,estimate,2268,3318.4,3533.8,238.9,1019.5,1732.6,2971.2,4381.5,9599.1
+Quebec,2022-02-19,,estimate,1220.5,1689,1622.3,140,569.5,939.2,1555.8,2334.5,4693.6
+Quebec,2022-02-20,,estimate,2080,2986.9,3275.1,209.9,905,1527.2,2675,4105.5,8772
+Quebec,2022-02-21,,estimate,1175.5,1700.7,1795.9,145.6,586.2,901.6,1498.6,2216,5132.3
+Quebec,2022-02-22,,estimate,1376,1998,1978.6,141,651.8,1051.2,1818.4,2673.5,6062.4
+Quebec,2022-02-23,,estimate,1822,2598.8,2587,191,824,1361.8,2344.4,3531.2,7439.1
+Quebec,2022-02-24,,estimate,1527.5,2261.1,2316.8,168.9,711.5,1169.4,1997.2,3033.8,6808.2
+Quebec,2022-02-25,,estimate,1402,1965.3,1952.1,151,629.8,1046,1790.4,2626.5,5850.2
+Quebec,2022-02-26,,estimate,728,1040.2,1049.1,89.9,337.8,554.6,928.4,1371,3107.3
+Quebec,2022-02-27,,estimate,1209.5,1786,1853.2,131,553,933,1567.8,2401.5,5155.1
+Quebec,2022-02-28,,estimate,743,1045.6,1066.2,74.9,340.8,572.6,956.4,1366.8,3011.4
+Quebec,2022-03-01,,estimate,896.5,1284.6,1297.2,99.9,410.5,676.6,1147.8,1690,3883.5
+Quebec,2022-03-02,,estimate,1252,1743.7,1767.9,140,580.2,969.6,1583.4,2343.5,4928.8
+Quebec,2022-03-03,,estimate,1033,1491.9,1475.3,121,466.8,783.6,1372.2,2005.5,4526.8
+Quebec,2022-03-04,,estimate,927.5,1321,1388.8,100,424.8,699,1202.4,1714.2,3887.1
+Quebec,2022-03-05,,estimate,499.5,710.2,738.6,54.9,230.8,379.6,643,942.8,2030
+Quebec,2022-03-06,,estimate,956.5,1372.4,1448.9,111,456,730.6,1216.4,1827.8,4030.9
+Quebec,2022-03-07,,estimate,544,783.5,805.1,55.9,265,420,708,1040.5,2314.5
+Quebec,2022-03-08,,estimate,741,1045.9,1064.9,74.9,328.8,541.6,955.4,1401.2,2993.5
+Quebec,2022-03-09,,estimate,982,1413,1425.3,96.9,458.8,747.2,1274.4,1913.2,3984.1
+Quebec,2022-03-10,,estimate,859.5,1280.1,1361.3,92,400,646.6,1124.8,1709.5,3802.3
+Quebec,2022-03-11,,estimate,848.5,1206.1,1283.4,82,377.8,641,1054.4,1594.2,3486.8
+Quebec,2022-03-12,,estimate,476.5,700.8,711.4,51,215.5,357.6,637,956,2050.3
+Quebec,2022-03-13,,estimate,915.5,1335,1385.2,102.9,412.8,696,1191.4,1779.8,3919.8
+Quebec,2022-03-14,,estimate,542,818.4,848.2,57.9,244.8,405,721.2,1095.5,2506.1
+Quebec,2022-03-15,,estimate,771,1100.8,1142.1,84.9,368,602,975.8,1455,3169.5
+Quebec,2022-03-16,,estimate,1080.5,1588.8,1641.9,108.9,500.8,807.6,1444,2106.8,4817.3
+Quebec,2022-03-17,,estimate,1083,1536.7,1571.7,126.9,494.2,836.2,1383.4,2028.8,4577.4
+Quebec,2022-03-18,,estimate,1033,1514.8,1584.7,120,468,786.6,1357,1975.2,4504.3
+Quebec,2022-03-19,,estimate,606,897.5,971.1,59.9,262.8,460,790,1168,2805.4
+Quebec,2022-03-20,,estimate,1202.5,1718.1,1721.3,125,559.8,928,1521.4,2335,5165.1
+Quebec,2022-03-21,,estimate,783.5,1129.4,1274.3,78,350.5,580,980.4,1454,3450.5
+Quebec,2022-03-22,,estimate based on partial data,1055.5,1473.2,1477.1,105.9,474.8,802,1360.2,2026.2,4068.2
+Quebec,2022-03-23,,estimate based on partial data,1513.5,2227.3,2685.2,183.9,715,1166,1951.4,2901.8,6341.9
+Quebec,2022-03-24,,estimate based on partial data,1488,2089.3,1997.7,152.9,694.5,1153.6,1957,2866.5,5915.6
+Quebec,2022-03-25,,estimate based on partial data,1476.5,2188.5,2406.4,143.8,699.8,1127.6,1955.8,2872.2,6491.4
+Quebec,2022-03-26,,estimate based on partial data,906,1359.2,1538.9,102.9,415,696,1174.8,1757.5,4111.6
+Quebec,2022-03-27,,estimate based on partial data,1784,2579.6,2677.8,197.8,820,1327.6,2284.2,3402.5,7818.9
+Quebec,2022-03-28,,estimate based on partial data,1175,1792,1976.7,129.9,567,928,1521.2,2303.2,5518.4
+Quebec,2022-03-29,,estimate based on partial data,1726.5,2546.9,2700.1,170.7,793,1302,2222.2,3406,7504.9
+Quebec,2022-03-30,,estimate based on partial data,2644.5,4173.5,5377.3,265,1162.8,1997,3395.4,5272.2,12698.8
+Quebec,2022-03-31,,estimate based on partial data,2661.5,4151.9,5076.7,302.7,1274,2094.4,3415.8,5186.8,13002.3
+Quebec,2022-04-01,,forecast,2688.5,4673.7,6692.3,245.7,1133.8,1986.6,3579,5528.8,15516.2
+Quebec,2022-04-02,,forecast,1604,3318.3,6599.1,168.9,707.5,1216.2,2163,3418.5,11654.2
+Quebec,2022-04-03,,forecast,3098.5,7366.9,15473,242.8,1273,2203.6,4331.4,7336.2,25122.6
+Quebec,2022-04-04,,forecast,2095.5,7119.2,26257,157.7,790.5,1522,2969.4,5378,24151.2
+Quebec,2022-04-05,,forecast,2951,12543.1,57298.2,204,1121.2,2068.4,4153.2,7867.2,41054.4
+Quebec,2022-04-06,,forecast,4384.5,26146.4,158678.6,292.8,1457,2930.8,6483.2,12562.2,70377.4
+Quebec,2022-04-07,,forecast,4504.5,47049,473387.6,266,1571.2,2980.4,6827.6,13906.5,92399.2
+Saskatchewan,2022-02-01,,estimate,48,157.8,320,0,8,26,76,168.2,647
+Saskatchewan,2022-02-02,,estimate,51,151,291.6,0,11,33,79,158,626.4
+Saskatchewan,2022-02-03,,estimate,71,222.7,642.9,0,11.8,41,115,227,854
+Saskatchewan,2022-02-04,,estimate,77,227.8,471,0,12,44,123,238.5,937
+Saskatchewan,2022-02-05,,estimate,8619,30032.7,64007.4,40.7,1753.8,5122.6,14300.2,29162.5,124492.9
+Saskatchewan,2022-02-06,,estimate,78,261.7,594.6,0,14,44,135.4,284,1041
+Saskatchewan,2022-02-07,,estimate,1,6.9,25.8,0,0,0,1,4,29
+Saskatchewan,2022-02-08,,estimate,117.5,401.9,988.7,0,24,67,194.4,414,1646.1
+Saskatchewan,2022-02-09,,estimate,93.5,312.2,656.6,0,17,52,163.4,341.2,1315
+Saskatchewan,2022-02-10,,estimate,96,272.5,490.4,0,20,54.6,145,307,1191.3
+Saskatchewan,2022-02-11,,estimate,74,264,606.7,0,14,40.6,124,254,1212.1
+Saskatchewan,2022-02-12,,estimate,6925.5,20581.9,39408.1,27.9,1281.5,4043.8,10503.2,22786.5,83914
+Saskatchewan,2022-02-13,,estimate,41,130.1,245.7,0,7,24,65,142,566.2
+Saskatchewan,2022-02-14,,estimate,0,3,12,0,0,0,1,2,13
+Saskatchewan,2022-02-15,,estimate,45,156.7,410.8,0,9,26,74,152.2,674.1
+Saskatchewan,2022-02-16,,estimate,31,98.4,192.5,0,6,18,52,107,401.2
+Saskatchewan,2022-02-17,,estimate,26,91.4,199.1,0,5,16,45,91.2,375
+Saskatchewan,2022-02-18,,estimate,21,71.5,151.5,0,4,11,34,68,309.1
+Saskatchewan,2022-02-19,,estimate,1608.5,4835.4,8543.3,7,293,872,2693.2,5549.8,20942.8
+Saskatchewan,2022-02-20,,estimate,11,36,81.2,0,2,6,18,37,141.3
+Saskatchewan,2022-02-21,,estimate,0,0.8,3.5,0,0,0,0,0,4
+Saskatchewan,2022-02-22,,estimate,10,31,60.7,0,2,6,18,35,123.1
+Saskatchewan,2022-02-23,,estimate,6,19.6,44.1,0,1,3,10,19,82.1
+Saskatchewan,2022-02-24,,estimate,4,16.3,40.5,0,1,2,7,15,67
+Saskatchewan,2022-02-25,,estimate,3,11.7,30.9,0,0,2,5,11,49
+Saskatchewan,2022-02-26,,estimate,278,785.2,1560.2,1,43,145,457,883,2999.1
+Saskatchewan,2022-02-27,,estimate,1,5.5,14.3,0,0,1,2,5,24
+Saskatchewan,2022-02-28,,estimate,0,0.1,0.8,0,0,0,0,0,1
+Saskatchewan,2022-03-01,,estimate,2,5.8,12.9,0,0,1,3,6,24
+Saskatchewan,2022-03-02,,estimate,1,3.9,12.3,0,0,0,2,4,16
+Saskatchewan,2022-03-03,,estimate,1,3.5,9.4,0,0,0,1,3,15
+Saskatchewan,2022-03-04,,estimate,1,3,9.9,0,0,0,1,3,13
+Saskatchewan,2022-03-05,,estimate,84.5,206.6,334.8,0,16,48,131,246,803.7
+Saskatchewan,2022-03-06,,estimate,0,2.1,4.9,0,0,0,1,2,10
+Saskatchewan,2022-03-07,,estimate,0,0,0.3,0,0,0,0,0,0
+Saskatchewan,2022-03-08,,estimate,1,3.2,7.1,0,0,0,1,3,15
+Saskatchewan,2022-03-09,,estimate,1,2.4,5.3,0,0,0,1,3,10
+Saskatchewan,2022-03-10,,estimate,1,2.7,6.5,0,0,0,1,3,13
+Saskatchewan,2022-03-11,,estimate,1,3,9.5,0,0,0,1,3,12
+Saskatchewan,2022-03-12,,estimate,73,209.3,385.6,0,13,43,117,241,876.1
+Saskatchewan,2022-03-13,,estimate,0,2.4,8.5,0,0,0,1,2,10
+Saskatchewan,2022-03-14,,estimate,0,0.1,0.5,0,0,0,0,0,0
+Saskatchewan,2022-03-15,,estimate,1,4.3,10.9,0,0,0,2,4,19
+Saskatchewan,2022-03-16,,estimate,1,3.6,9,0,0,0,1,4,16
+Saskatchewan,2022-03-17,,estimate,1,3.7,10.6,0,0,0,2,3,16
+Saskatchewan,2022-03-18,,estimate,1,3.5,7.8,0,0,0,1,3,16
+Saskatchewan,2022-03-19,,estimate,96,253.4,402.3,0,19,56,156,315,1042.1
+Saskatchewan,2022-03-20,,estimate,0,2.5,6.7,0,0,0,1,2,11
+Saskatchewan,2022-03-21,,estimate,0,0.1,0.4,0,0,0,0,0,0
+Saskatchewan,2022-03-22,,estimate based on partial data,1,3.9,9.1,0,0,0,2,4,19
+Saskatchewan,2022-03-23,,estimate based on partial data,1,3.3,8.8,0,0,0,1,3,14
+Saskatchewan,2022-03-24,,estimate based on partial data,1,3.6,10.8,0,0,0,1,3,14
+Saskatchewan,2022-03-25,,estimate based on partial data,1,3.3,19.5,0,0,0,1,3,13
+Saskatchewan,2022-03-26,,estimate based on partial data,71,214.6,422.6,0,14,40,120,242,892.3
+Saskatchewan,2022-03-27,,estimate based on partial data,0,2.2,6.3,0,0,0,1,2,10
+Saskatchewan,2022-03-28,,estimate based on partial data,0,0,0.3,0,0,0,0,0,0
+Saskatchewan,2022-03-29,,estimate based on partial data,1,3.2,9.9,0,0,0,1,3,14
+Saskatchewan,2022-03-30,,estimate based on partial data,0,2.5,7.6,0,0,0,1,2,10
+Saskatchewan,2022-03-31,,estimate based on partial data,0,3.3,22.9,0,0,0,1,2,12
+Saskatchewan,2022-04-01,,forecast,0,3.8,21.8,0,0,0,1,2,14
+Saskatchewan,2022-04-02,,forecast,35,596.8,10511.6,0,6,20,65.4,158.2,1163.2
+Saskatchewan,2022-04-03,,forecast,0,14.6,227.6,0,0,0,0,1,12
+Saskatchewan,2022-04-04,,forecast,0,3.2,86.5,0,0,0,0,0,0
+Saskatchewan,2022-04-05,,forecast,0,652.3,14984.4,0,0,0,1,2,28
+Saskatchewan,2022-04-06,,forecast,0,510.9,16365.3,0,0,0,0,1,28
+Saskatchewan,2022-04-07,,forecast,0,4134.3,163585.7,0,0,0,0,1,42
+Yukon,2022-02-01,,estimate,9,12.1,10.5,1,5,8,12,16,32
+Yukon,2022-02-02,,estimate,9,11.1,9.9,1,4,7,11,15,29
+Yukon,2022-02-03,,estimate,11,14.2,12.2,1,5,9,14,19,39
+Yukon,2022-02-04,,estimate,8,10.9,9.6,1,4,7,10,15,30
+Yukon,2022-02-05,,estimate,0,0.1,0.4,0,0,0,0,0,1
+Yukon,2022-02-06,,estimate,0,0.1,0.5,0,0,0,0,0,1
+Yukon,2022-02-07,,estimate,29,37.6,34.7,4,14,22,35,51,101
+Yukon,2022-02-08,,estimate,14,18.1,15.7,2,7,11,17.4,25,48
+Yukon,2022-02-09,,estimate,13,17.9,16.9,1,7,11,17,24,48
+Yukon,2022-02-10,,estimate,18,23.1,21,3,9,15,23,30,61
+Yukon,2022-02-11,,estimate,13,17,15,2,7,11,16,22,46
+Yukon,2022-02-12,,estimate,0,0.2,0.5,0,0,0,0,0,1
+Yukon,2022-02-13,,estimate,0,0.2,0.6,0,0,0,0,0,1
+Yukon,2022-02-14,,estimate,33,43.1,37.7,5,18,27,41,57,110
+Yukon,2022-02-15,,estimate,15,19.6,17.7,2,8,12,19,27,53
+Yukon,2022-02-16,,estimate,13,16.8,15.9,1,7,10,16,22,46
+Yukon,2022-02-17,,estimate,15,19.5,17.6,2,8,12,19,26,55
+Yukon,2022-02-18,,estimate,11,14.7,13.6,1,5,9,14,19,40
+Yukon,2022-02-19,,estimate,0,0.2,0.5,0,0,0,0,0,1
+Yukon,2022-02-20,,estimate,0,0.2,0.5,0,0,0,0,0,1
+Yukon,2022-02-21,,estimate,24,30.4,25.6,3,13,19,30,41,80
+Yukon,2022-02-22,,estimate,10,13.7,12.7,1,5,8,13,18,37
+Yukon,2022-02-23,,estimate,9,11.8,12.4,1,4,7,11,15,33
+Yukon,2022-02-24,,estimate,10,13,11.9,1,5,8,12,17,36
+Yukon,2022-02-25,,estimate,7,9.9,9.9,1,4,6,9,13,29
+Yukon,2022-02-26,,estimate,0,0.1,0.4,0,0,0,0,0,1
+Yukon,2022-02-27,,estimate,0,0.1,0.3,0,0,0,0,0,1
+Yukon,2022-02-28,,estimate,16,21.4,18.6,2,8,13,21,28,58
+Yukon,2022-03-01,,estimate,7,9.5,8.8,1,4,6,9,13,26
+Yukon,2022-03-02,,estimate,7,8.9,8.4,0,3,5,8,12,25
+Yukon,2022-03-03,,estimate,8,10.6,9.5,1,4,7,10,14,28
+Yukon,2022-03-04,,estimate,6,8,8,0,3,4,7,11,23
+Yukon,2022-03-05,,estimate,0,0.1,0.3,0,0,0,0,0,1
+Yukon,2022-03-06,,estimate,0,0.1,0.3,0,0,0,0,0,1
+Yukon,2022-03-07,,estimate,17,21.3,18.6,2,8,13,21,29,56
+Yukon,2022-03-08,,estimate,8,9.8,8.9,1,4,6,9,13,26
+Yukon,2022-03-09,,estimate,7,9.5,9.2,1,3,5,9,13,27
+Yukon,2022-03-10,,estimate,9,12,10.3,1,5,7,12,16,32
+Yukon,2022-03-11,,estimate,7,9.2,8.9,0,3,5,9,12,26
+Yukon,2022-03-12,,estimate,0,0.1,0.4,0,0,0,0,0,1
+Yukon,2022-03-13,,estimate,0,0.1,0.4,0,0,0,0,0,1
+Yukon,2022-03-14,,estimate,21,26.9,23.3,3,10,17,26,36,71
+Yukon,2022-03-15,,estimate,10,12.6,11.7,1,5,7,12,17,36
+Yukon,2022-03-16,,estimate,9,11.9,10.9,1,4,7,12,16,32
+Yukon,2022-03-17,,estimate,12,15.8,14.4,1,6,10,15,21,43
+Yukon,2022-03-18,,estimate,9,11.7,10.9,1,4,7,11,15,33
+Yukon,2022-03-19,,estimate,0,0.2,0.5,0,0,0,0,0,1
+Yukon,2022-03-20,,estimate,0,0.2,0.5,0,0,0,0,0,1
+Yukon,2022-03-21,,estimate,28,35.8,31.2,3,15,22,34,48,94
+Yukon,2022-03-22,,estimate based on partial data,12,16.4,15.1,1,6,10,16,22,45
+Yukon,2022-03-23,,estimate based on partial data,12,15.5,14.2,1,6,9,15,20,42
+Yukon,2022-03-24,,estimate based on partial data,15,19,16.8,2,7,11,18,25,52
+Yukon,2022-03-25,,estimate based on partial data,11,14.7,13.2,1,6,9,14,20,39
+Yukon,2022-03-26,,estimate based on partial data,0,0.2,0.5,0,0,0,0,0,1
+Yukon,2022-03-27,,estimate based on partial data,0,0.2,0.5,0,0,0,0,0,1
+Yukon,2022-03-28,,estimate based on partial data,33,41.8,35.6,5,16.8,26,40,55,110
+Yukon,2022-03-29,,estimate based on partial data,14,19.9,19.6,2,7,12,18,26,56
+Yukon,2022-03-30,,estimate based on partial data,14,18.3,19.2,1,7,10,17,24,50
+Yukon,2022-03-31,,estimate based on partial data,17,23.6,23.7,2,8,14,21,31,66
+Yukon,2022-04-01,,forecast,13,18.9,21.9,1,6,10,16,24,55
+Yukon,2022-04-02,,forecast,0,0.3,0.7,0,0,0,0,0,1
+Yukon,2022-04-03,,forecast,0,0.3,0.8,0,0,0,0,0,1
+Yukon,2022-04-04,,forecast,34.5,73.5,155.1,4,15,25,47,77,246.1
+Yukon,2022-04-05,,forecast,16,42,139,1,6,11,21,37,131.1
+Yukon,2022-04-06,,forecast,15,49,202.5,1,6,10,21,36,145.1
+Yukon,2022-04-07,,forecast,18,90.6,674.8,2,7,13,25,45,213

@@ -1,0 +1,90 @@
+---
+title: "COVID19  - regional statistics"
+author: "Richard Martin-Nielsen"
+output:
+  html_document:
+    fig_width: 6
+    fig_height: 4
+    df_print: paged
+    self_contained: false
+---
+  
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+Sys.setenv(`_R_S3_METHOD_REGISTRATION_NOTE_OVERWRITES_` = "false")
+library(dplyr)
+#library(RtD3)
+library(lubridate)
+library(htmltools)
+library(covidregionaldata)
+#library(rmapshaper)
+
+countryName <- "Canada"
+activeArea <- "Ontario"
+```
+Header text also goes here.
+
+``` {r }
+# RtD3::summaryWidget(
+#   geoData = geoData,
+#   rtData = rtData,
+#   runDate = max(rtData$Cases$obsCasesData$date)+1,
+#   activeArea = 'Vilniaus m.'
+#)
+
+
+
+HTML('<script src="site_libs/header-attrs-2.7/header-attrs.js"></script>',
+  '<script src="site_libs/jquery-3.5.1/jquery.min.js"></script>',
+  '<meta name="viewport" content="width=device-width, initial-scale=1" />',
+  '<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />',
+  '<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>',
+  '<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>',
+  '<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>',
+  '<script src="site_libs/htmlwidgets-1.5.3/htmlwidgets.js"></script>\n',
+    '<script src=\"site_libs/RtD3-binding-0.0.1/RtD3.js\"></script>\n',
+     '<link href="site_libs/rtVis-1/styles.css" rel="stylesheet" />\n',
+     '<script src="site_libs/rtVis-1/build.min.js"></script>\n',
+     '<script src="site_libs/d3-geo-projection-2.9.0/d3-geo-projection.v2.min.js"></script>\n',
+     '<script src="site_libs/d3-5.16.0/d3.v5.min.js"></script>\n',
+     '<link href="site_libs/select2-4.1.0/select2.min.css" rel="stylesheet" />',
+     '<script src="site_libs/select2-4.1.0/select2.min.js"></script>',
+      "<div id=\"root\"></div>\n<script>\n",
+         "var x = {\n",
+            paste0("'activeArea':'", activeArea, "',"),
+            "'activeData':'R0',",
+            "'activeTime':'all',",
+            paste0("'geoData':d3.json('epinow/", countryName, "_regions.geojson'),"),
+            "'rtData': {'Cases':{'summaryData':d3.csv('epinow/summary_table.csv'),'rtData':d3.csv('epinow/rt.csv'),'casesInfectionData':d3.csv('epinow/cases_by_infection.csv'),'casesReportData':d3.csv('epinow/cases_by_report.csv'),'obsCasesData':d3.csv('epinow/reported_cases.csv')}},",
+            "'fullWidth':800,",
+            "'downloadUrl':'http://projects.martin-nielsen.ca/Graphs/data-download.html',",
+            "'ts_color_ref':{'poly_90_e':'#d1ebe3','poly_90_eb':'#f7dfcc','poly_90_f':'#e3e2ef','poly_50_e':'#9bd4c2','poly_50_eb':'#edb98f','poly_50_f':'#c2c0dd','poly_20_e':'#75c4ab','poly_20_eb':'#e69e65','poly_20_f':'#aba8d0'},\n}\n",
+          "var vis = new rtVis(x, 100, 100);\n",
+          "vis.summaryWidget('#root')\n",
+          "</script>\n<p>&nbsp;</p>\n")
+
+dataset_details <- get_available_datasets("regional") %>% filter(grepl(countryName, origin))
+```
+
+## Credits
+
+```{r intro-credits, results="asis", echo=FALSE}
+
+  cat("Data is sourced using the \n",
+    "[covidregionaldata](https://epiforecasts.io/covidregionaldata) package to\n",
+    "download data published by\n[",
+    dataset_details$source_text,
+    "](",
+    dataset_details$source_url,
+    ").\n\n")
+
+```
+
+The data has been processed using the [EpiNow2](https://epiforecasts.io/EpiNow2/dev/index.html) R package to estimate the time-varying reproduction number, rate of spread, and doubling time. EpiNow2 uses a range of open-source tools ([Abbott et al.](https://doi.org/10.12688/wellcomeopenres.16006.1)), and current best practices ([Gostic et al.](https://doi.org/10.1101/2020.06.18.20134858)). 
+
+The visualisation is built using the [RtD3](https://epiforecasts.io/RtD3/) package following the example given for subnational results.
+
+## References
+
+* Sam Abbott, Joel Hellewell, Katharine Sherratt, Katelyn Gostic, Joe Hickson, Hamada S. Badr, Michael DeWitt, Robin Thompson, EpiForecasts, and Sebastian Funk (2020). EpiNow2: Estimate Real-Time Case Counts and Time-Varying Epidemiological Parameters, DOI: 10.5281/zenodo.3957489
+* Hamish Gibbs (2020). RtD3: Rt Visualization in D3, DOI: 10.5281/zenodo.4011841

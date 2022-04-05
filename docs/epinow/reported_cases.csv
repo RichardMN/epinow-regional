@@ -1,0 +1,827 @@
+date,confirm,region
+2022-02-01,1980,Alberta
+2022-02-01,1236,British Columbia
+2022-02-01,487,Manitoba
+2022-02-01,228,New Brunswick
+2022-02-01,179,Newfoundland and Labrador
+2022-02-01,208,Northwest Territories
+2022-02-01,274,Nova Scotia
+2022-02-01,83,Nunavut
+2022-02-01,2622,Ontario
+2022-02-01,362,Prince Edward Island
+2022-02-01,2730,Quebec
+2022-02-01,0,Repatriated Travellers
+2022-02-01,666,Saskatchewan
+2022-02-01,22,Yukon
+2022-02-02,3024,Alberta
+2022-02-02,1774,British Columbia
+2022-02-02,524,Manitoba
+2022-02-02,381,New Brunswick
+2022-02-02,248,Newfoundland and Labrador
+2022-02-02,148,Northwest Territories
+2022-02-02,395,Nova Scotia
+2022-02-02,0,Nunavut
+2022-02-02,3909,Ontario
+2022-02-02,238,Prince Edward Island
+2022-02-02,3816,Quebec
+2022-02-02,0,Repatriated Travellers
+2022-02-02,622,Saskatchewan
+2022-02-02,18,Yukon
+2022-02-03,2370,Alberta
+2022-02-03,1518,British Columbia
+2022-02-03,357,Manitoba
+2022-02-03,411,New Brunswick
+2022-02-03,198,Newfoundland and Labrador
+2022-02-03,142,Northwest Territories
+2022-02-03,401,Nova Scotia
+2022-02-03,71,Nunavut
+2022-02-03,4098,Ontario
+2022-02-03,186,Prince Edward Island
+2022-02-03,3592,Quebec
+2022-02-03,0,Repatriated Travellers
+2022-02-03,849,Saskatchewan
+2022-02-03,22,Yukon
+2022-02-04,2086,Alberta
+2022-02-04,1495,British Columbia
+2022-02-04,620,Manitoba
+2022-02-04,401,New Brunswick
+2022-02-04,258,Newfoundland and Labrador
+2022-02-04,187,Northwest Territories
+2022-02-04,594,Nova Scotia
+2022-02-04,44,Nunavut
+2022-02-04,4047,Ontario
+2022-02-04,199,Prince Edward Island
+2022-02-04,3400,Quebec
+2022-02-04,0,Repatriated Travellers
+2022-02-04,773,Saskatchewan
+2022-02-04,18,Yukon
+2022-02-05,2106,Alberta
+2022-02-05,1326,British Columbia
+2022-02-05,0,Manitoba
+2022-02-05,296,New Brunswick
+2022-02-05,222,Newfoundland and Labrador
+2022-02-05,0,Northwest Territories
+2022-02-05,382,Nova Scotia
+2022-02-05,0,Nunavut
+2022-02-05,3204,Ontario
+2022-02-05,0,Prince Edward Island
+2022-02-05,2955,Quebec
+2022-02-05,0,Repatriated Travellers
+2022-02-05,1009,Saskatchewan
+2022-02-05,0,Yukon
+2022-02-06,1389,Alberta
+2022-02-06,1118,British Columbia
+2022-02-06,849,Manitoba
+2022-02-06,154,New Brunswick
+2022-02-06,110,Newfoundland and Labrador
+2022-02-06,0,Northwest Territories
+2022-02-06,349,Nova Scotia
+2022-02-06,0,Nunavut
+2022-02-06,2887,Ontario
+2022-02-06,154,Prince Edward Island
+2022-02-06,2568,Quebec
+2022-02-06,0,Repatriated Travellers
+2022-02-06,733,Saskatchewan
+2022-02-06,0,Yukon
+2022-02-07,1123,Alberta
+2022-02-07,843,British Columbia
+2022-02-07,258,Manitoba
+2022-02-07,261,New Brunswick
+2022-02-07,166,Newfoundland and Labrador
+2022-02-07,296,Northwest Territories
+2022-02-07,313,Nova Scotia
+2022-02-07,54,Nunavut
+2022-02-07,2088,Ontario
+2022-02-07,186,Prince Edward Island
+2022-02-07,2240,Quebec
+2022-02-07,0,Repatriated Travellers
+2022-02-07,0,Saskatchewan
+2022-02-07,49,Yukon
+2022-02-08,1667,Alberta
+2022-02-08,1117,British Columbia
+2022-02-08,409,Manitoba
+2022-02-08,259,New Brunswick
+2022-02-08,210,Newfoundland and Labrador
+2022-02-08,73,Northwest Territories
+2022-02-08,219,Nova Scotia
+2022-02-08,22,Nunavut
+2022-02-08,2092,Ontario
+2022-02-08,264,Prince Edward Island
+2022-02-08,2504,Quebec
+2022-02-08,0,Repatriated Travellers
+2022-02-08,0,Saskatchewan
+2022-02-08,17,Yukon
+2022-02-09,1684,Alberta
+2022-02-09,1187,British Columbia
+2022-02-09,467,Manitoba
+2022-02-09,321,New Brunswick
+2022-02-09,250,Newfoundland and Labrador
+2022-02-09,110,Northwest Territories
+2022-02-09,365,Nova Scotia
+2022-02-09,36,Nunavut
+2022-02-09,3162,Ontario
+2022-02-09,187,Prince Edward Island
+2022-02-09,3361,Quebec
+2022-02-09,0,Repatriated Travellers
+2022-02-09,0,Saskatchewan
+2022-02-09,9,Yukon
+2022-02-10,1363,Alberta
+2022-02-10,1318,British Columbia
+2022-02-10,565,Manitoba
+2022-02-10,351,New Brunswick
+2022-02-10,243,Newfoundland and Labrador
+2022-02-10,97,Northwest Territories
+2022-02-10,365,Nova Scotia
+2022-02-10,0,Nunavut
+2022-02-10,3201,Ontario
+2022-02-10,210,Prince Edward Island
+2022-02-10,2894,Quebec
+2022-02-10,0,Repatriated Travellers
+2022-02-10,0,Saskatchewan
+2022-02-10,25,Yukon
+2022-02-11,1400,Alberta
+2022-02-11,1038,British Columbia
+2022-02-11,664,Manitoba
+2022-02-11,359,New Brunswick
+2022-02-11,267,Newfoundland and Labrador
+2022-02-11,217,Northwest Territories
+2022-02-11,389,Nova Scotia
+2022-02-11,67,Nunavut
+2022-02-11,2907,Ontario
+2022-02-11,204,Prince Edward Island
+2022-02-11,2662,Quebec
+2022-02-11,0,Repatriated Travellers
+2022-02-11,0,Saskatchewan
+2022-02-11,16,Yukon
+2022-02-12,1146,Alberta
+2022-02-12,1151,British Columbia
+2022-02-12,0,Manitoba
+2022-02-12,303,New Brunswick
+2022-02-12,244,Newfoundland and Labrador
+2022-02-12,0,Northwest Territories
+2022-02-12,309,Nova Scotia
+2022-02-12,0,Nunavut
+2022-02-12,2944,Ontario
+2022-02-12,227,Prince Edward Island
+2022-02-12,2359,Quebec
+2022-02-12,0,Repatriated Travellers
+2022-02-12,2522,Saskatchewan
+2022-02-12,0,Yukon
+2022-02-13,866,Alberta
+2022-02-13,883,British Columbia
+2022-02-13,978,Manitoba
+2022-02-13,266,New Brunswick
+2022-02-13,237,Newfoundland and Labrador
+2022-02-13,0,Northwest Territories
+2022-02-13,243,Nova Scotia
+2022-02-13,0,Nunavut
+2022-02-13,2265,Ontario
+2022-02-13,203,Prince Edward Island
+2022-02-13,1870,Quebec
+2022-02-13,0,Repatriated Travellers
+2022-02-13,0,Saskatchewan
+2022-02-13,0,Yukon
+2022-02-14,635,Alberta
+2022-02-14,667,British Columbia
+2022-02-14,188,Manitoba
+2022-02-14,190,New Brunswick
+2022-02-14,174,Newfoundland and Labrador
+2022-02-14,335,Northwest Territories
+2022-02-14,158,Nova Scotia
+2022-02-14,120,Nunavut
+2022-02-14,1765,Ontario
+2022-02-14,101,Prince Edward Island
+2022-02-14,1431,Quebec
+2022-02-14,0,Repatriated Travellers
+2022-02-14,0,Saskatchewan
+2022-02-14,37,Yukon
+2022-02-15,838,Alberta
+2022-02-15,246,British Columbia
+2022-02-15,384,Manitoba
+2022-02-15,276,New Brunswick
+2022-02-15,213,Newfoundland and Labrador
+2022-02-15,98,Northwest Territories
+2022-02-15,226,Nova Scotia
+2022-02-15,29,Nunavut
+2022-02-15,1593,Ontario
+2022-02-15,158,Prince Edward Island
+2022-02-15,1973,Quebec
+2022-02-15,0,Repatriated Travellers
+2022-02-15,0,Saskatchewan
+2022-02-15,0,Yukon
+2022-02-16,888,Alberta
+2022-02-16,750,British Columbia
+2022-02-16,338,Manitoba
+2022-02-16,305,New Brunswick
+2022-02-16,179,Newfoundland and Labrador
+2022-02-16,131,Northwest Territories
+2022-02-16,223,Nova Scotia
+2022-02-16,43,Nunavut
+2022-02-16,2532,Ontario
+2022-02-16,289,Prince Edward Island
+2022-02-16,2328,Quebec
+2022-02-16,0,Repatriated Travellers
+2022-02-16,0,Saskatchewan
+2022-02-16,10,Yukon
+2022-02-17,813,Alberta
+2022-02-17,657,British Columbia
+2022-02-17,415,Manitoba
+2022-02-17,321,New Brunswick
+2022-02-17,316,Newfoundland and Labrador
+2022-02-17,80,Northwest Territories
+2022-02-17,242,Nova Scotia
+2022-02-17,35,Nunavut
+2022-02-17,2327,Ontario
+2022-02-17,310,Prince Edward Island
+2022-02-17,2055,Quebec
+2022-02-17,0,Repatriated Travellers
+2022-02-17,0,Saskatchewan
+2022-02-17,12,Yukon
+2022-02-18,619,Alberta
+2022-02-18,692,British Columbia
+2022-02-18,339,Manitoba
+2022-02-18,254,New Brunswick
+2022-02-18,234,Newfoundland and Labrador
+2022-02-18,98,Northwest Territories
+2022-02-18,320,Nova Scotia
+2022-02-18,50,Nunavut
+2022-02-18,2337,Ontario
+2022-02-18,235,Prince Edward Island
+2022-02-18,1837,Quebec
+2022-02-18,0,Repatriated Travellers
+2022-02-18,0,Saskatchewan
+2022-02-18,8,Yukon
+2022-02-19,817,Alberta
+2022-02-19,631,British Columbia
+2022-02-19,0,Manitoba
+2022-02-19,0,New Brunswick
+2022-02-19,306,Newfoundland and Labrador
+2022-02-19,0,Northwest Territories
+2022-02-19,200,Nova Scotia
+2022-02-19,0,Nunavut
+2022-02-19,2244,Ontario
+2022-02-19,204,Prince Edward Island
+2022-02-19,1736,Quebec
+2022-02-19,0,Repatriated Travellers
+2022-02-19,1407,Saskatchewan
+2022-02-19,0,Yukon
+2022-02-20,520,Alberta
+2022-02-20,571,British Columbia
+2022-02-20,0,Manitoba
+2022-02-20,0,New Brunswick
+2022-02-20,124,Newfoundland and Labrador
+2022-02-20,0,Northwest Territories
+2022-02-20,214,Nova Scotia
+2022-02-20,0,Nunavut
+2022-02-20,1966,Ontario
+2022-02-20,211,Prince Edward Island
+2022-02-20,1197,Quebec
+2022-02-20,0,Repatriated Travellers
+2022-02-20,0,Saskatchewan
+2022-02-20,0,Yukon
+2022-02-21,509,Alberta
+2022-02-21,424,British Columbia
+2022-02-21,611,Manitoba
+2022-02-21,0,New Brunswick
+2022-02-21,237,Newfoundland and Labrador
+2022-02-21,217,Northwest Territories
+2022-02-21,0,Nova Scotia
+2022-02-21,136,Nunavut
+2022-02-21,1335,Ontario
+2022-02-21,196,Prince Edward Island
+2022-02-21,1064,Quebec
+2022-02-21,0,Repatriated Travellers
+2022-02-21,0,Saskatchewan
+2022-02-21,0,Yukon
+2022-02-22,497,Alberta
+2022-02-22,477,British Columbia
+2022-02-22,199,Manitoba
+2022-02-22,1148,New Brunswick
+2022-02-22,246,Newfoundland and Labrador
+2022-02-22,122,Northwest Territories
+2022-02-22,111,Nova Scotia
+2022-02-22,0,Nunavut
+2022-02-22,1282,Ontario
+2022-02-22,0,Prince Edward Island
+2022-02-22,1438,Quebec
+2022-02-22,0,Repatriated Travellers
+2022-02-22,0,Saskatchewan
+2022-02-22,35,Yukon
+2022-02-23,791,Alberta
+2022-02-23,462,British Columbia
+2022-02-23,361,Manitoba
+2022-02-23,300,New Brunswick
+2022-02-23,248,Newfoundland and Labrador
+2022-02-23,71,Northwest Territories
+2022-02-23,200,Nova Scotia
+2022-02-23,93,Nunavut
+2022-02-23,1425,Ontario
+2022-02-23,554,Prince Edward Island
+2022-02-23,1861,Quebec
+2022-02-23,0,Repatriated Travellers
+2022-02-23,0,Saskatchewan
+2022-02-23,8,Yukon
+2022-02-24,682,Alberta
+2022-02-24,597,British Columbia
+2022-02-24,315,Manitoba
+2022-02-24,365,New Brunswick
+2022-02-24,287,Newfoundland and Labrador
+2022-02-24,99,Northwest Territories
+2022-02-24,187,Nova Scotia
+2022-02-24,48,Nunavut
+2022-02-24,2404,Ontario
+2022-02-24,412,Prince Edward Island
+2022-02-24,1517,Quebec
+2022-02-24,0,Repatriated Travellers
+2022-02-24,0,Saskatchewan
+2022-02-24,14,Yukon
+2022-02-25,595,Alberta
+2022-02-25,538,British Columbia
+2022-02-25,305,Manitoba
+2022-02-25,382,New Brunswick
+2022-02-25,392,Newfoundland and Labrador
+2022-02-25,88,Northwest Territories
+2022-02-25,170,Nova Scotia
+2022-02-25,0,Nunavut
+2022-02-25,2427,Ontario
+2022-02-25,303,Prince Edward Island
+2022-02-25,1542,Quebec
+2022-02-25,0,Repatriated Travellers
+2022-02-25,0,Saskatchewan
+2022-02-25,0,Yukon
+2022-02-26,594,Alberta
+2022-02-26,398,British Columbia
+2022-02-26,0,Manitoba
+2022-02-26,0,New Brunswick
+2022-02-26,296,Newfoundland and Labrador
+2022-02-26,0,Northwest Territories
+2022-02-26,322,Nova Scotia
+2022-02-26,0,Nunavut
+2022-02-26,2338,Ontario
+2022-02-26,0,Prince Edward Island
+2022-02-26,1175,Quebec
+2022-02-26,0,Repatriated Travellers
+2022-02-26,1101,Saskatchewan
+2022-02-26,0,Yukon
+2022-02-27,458,Alberta
+2022-02-27,297,British Columbia
+2022-02-27,425,Manitoba
+2022-02-27,0,New Brunswick
+2022-02-27,256,Newfoundland and Labrador
+2022-02-27,0,Northwest Territories
+2022-02-27,322,Nova Scotia
+2022-02-27,0,Nunavut
+2022-02-27,2001,Ontario
+2022-02-27,0,Prince Edward Island
+2022-02-27,1036,Quebec
+2022-02-27,0,Repatriated Travellers
+2022-02-27,0,Saskatchewan
+2022-02-27,0,Yukon
+2022-02-28,383,Alberta
+2022-02-28,279,British Columbia
+2022-02-28,111,Manitoba
+2022-02-28,1065,New Brunswick
+2022-02-28,327,Newfoundland and Labrador
+2022-02-28,115,Northwest Territories
+2022-02-28,243,Nova Scotia
+2022-02-28,145,Nunavut
+2022-02-28,1315,Ontario
+2022-02-28,933,Prince Edward Island
+2022-02-28,949,Quebec
+2022-02-28,0,Repatriated Travellers
+2022-02-28,0,Saskatchewan
+2022-02-28,37,Yukon
+2022-03-01,359,Alberta
+2022-03-01,466,British Columbia
+2022-03-01,221,Manitoba
+2022-03-01,287,New Brunswick
+2022-03-01,366,Newfoundland and Labrador
+2022-03-01,127,Northwest Territories
+2022-03-01,217,Nova Scotia
+2022-03-01,0,Nunavut
+2022-03-01,1176,Ontario
+2022-03-01,0,Prince Edward Island
+2022-03-01,698,Quebec
+2022-03-01,0,Repatriated Travellers
+2022-03-01,0,Saskatchewan
+2022-03-01,4,Yukon
+2022-03-02,388,Alberta
+2022-03-02,442,British Columbia
+2022-03-02,159,Manitoba
+2022-03-02,386,New Brunswick
+2022-03-02,389,Newfoundland and Labrador
+2022-03-02,83,Northwest Territories
+2022-03-02,362,Nova Scotia
+2022-03-02,141,Nunavut
+2022-03-02,1959,Ontario
+2022-03-02,962,Prince Edward Island
+2022-03-02,1630,Quebec
+2022-03-02,0,Repatriated Travellers
+2022-03-02,0,Saskatchewan
+2022-03-02,6,Yukon
+2022-03-03,539,Alberta
+2022-03-03,391,British Columbia
+2022-03-03,162,Manitoba
+2022-03-03,391,New Brunswick
+2022-03-03,497,Newfoundland and Labrador
+2022-03-03,73,Northwest Territories
+2022-03-03,421,Nova Scotia
+2022-03-03,0,Nunavut
+2022-03-03,2262,Ontario
+2022-03-03,0,Prince Edward Island
+2022-03-03,1257,Quebec
+2022-03-03,0,Repatriated Travellers
+2022-03-03,0,Saskatchewan
+2022-03-03,2,Yukon
+2022-03-04,502,Alberta
+2022-03-04,340,British Columbia
+2022-03-04,171,Manitoba
+2022-03-04,391,New Brunswick
+2022-03-04,450,Newfoundland and Labrador
+2022-03-04,42,Northwest Territories
+2022-03-04,294,Nova Scotia
+2022-03-04,101,Nunavut
+2022-03-04,2085,Ontario
+2022-03-04,1029,Prince Edward Island
+2022-03-04,1354,Quebec
+2022-03-04,0,Repatriated Travellers
+2022-03-04,0,Saskatchewan
+2022-03-04,10,Yukon
+2022-03-05,429,Alberta
+2022-03-05,385,British Columbia
+2022-03-05,0,Manitoba
+2022-03-05,0,New Brunswick
+2022-03-05,469,Newfoundland and Labrador
+2022-03-05,0,Northwest Territories
+2022-03-05,0,Nova Scotia
+2022-03-05,0,Nunavut
+2022-03-05,1930,Ontario
+2022-03-05,0,Prince Edward Island
+2022-03-05,1210,Quebec
+2022-03-05,0,Repatriated Travellers
+2022-03-05,1013,Saskatchewan
+2022-03-05,0,Yukon
+2022-03-06,402,Alberta
+2022-03-06,327,British Columbia
+2022-03-06,334,Manitoba
+2022-03-06,0,New Brunswick
+2022-03-06,332,Newfoundland and Labrador
+2022-03-06,0,Northwest Territories
+2022-03-06,0,Nova Scotia
+2022-03-06,0,Nunavut
+2022-03-06,1787,Ontario
+2022-03-06,0,Prince Edward Island
+2022-03-06,910,Quebec
+2022-03-06,0,Repatriated Travellers
+2022-03-06,0,Saskatchewan
+2022-03-06,0,Yukon
+2022-03-07,282,Alberta
+2022-03-07,285,British Columbia
+2022-03-07,88,Manitoba
+2022-03-07,1133,New Brunswick
+2022-03-07,443,Newfoundland and Labrador
+2022-03-07,109,Northwest Territories
+2022-03-07,0,Nova Scotia
+2022-03-07,108,Nunavut
+2022-03-07,1074,Ontario
+2022-03-07,1327,Prince Edward Island
+2022-03-07,775,Quebec
+2022-03-07,0,Repatriated Travellers
+2022-03-07,0,Saskatchewan
+2022-03-07,30,Yukon
+2022-03-08,467,Alberta
+2022-03-08,200,British Columbia
+2022-03-08,141,Manitoba
+2022-03-08,242,New Brunswick
+2022-03-08,535,Newfoundland and Labrador
+2022-03-08,94,Northwest Territories
+2022-03-08,1382,Nova Scotia
+2022-03-08,7,Nunavut
+2022-03-08,1208,Ontario
+2022-03-08,705,Prince Edward Island
+2022-03-08,935,Quebec
+2022-03-08,0,Repatriated Travellers
+2022-03-08,0,Saskatchewan
+2022-03-08,9,Yukon
+2022-03-09,552,Alberta
+2022-03-09,274,British Columbia
+2022-03-09,206,Manitoba
+2022-03-09,342,New Brunswick
+2022-03-09,596,Newfoundland and Labrador
+2022-03-09,75,Northwest Territories
+2022-03-09,0,Nova Scotia
+2022-03-09,30,Nunavut
+2022-03-09,1947,Ontario
+2022-03-09,577,Prince Edward Island
+2022-03-09,1426,Quebec
+2022-03-09,0,Repatriated Travellers
+2022-03-09,0,Saskatchewan
+2022-03-09,9,Yukon
+2022-03-10,552,Alberta
+2022-03-10,336,British Columbia
+2022-03-10,192,Manitoba
+2022-03-10,455,New Brunswick
+2022-03-10,680,Newfoundland and Labrador
+2022-03-10,66,Northwest Territories
+2022-03-10,0,Nova Scotia
+2022-03-10,0,Nunavut
+2022-03-10,2125,Ontario
+2022-03-10,0,Prince Edward Island
+2022-03-10,1267,Quebec
+2022-03-10,0,Repatriated Travellers
+2022-03-10,0,Saskatchewan
+2022-03-10,13,Yukon
+2022-03-11,473,Alberta
+2022-03-11,288,British Columbia
+2022-03-11,194,Manitoba
+2022-03-11,403,New Brunswick
+2022-03-11,582,Newfoundland and Labrador
+2022-03-11,48,Northwest Territories
+2022-03-11,0,Nova Scotia
+2022-03-11,65,Nunavut
+2022-03-11,2130,Ontario
+2022-03-11,798,Prince Edward Island
+2022-03-11,1179,Quebec
+2022-03-11,0,Repatriated Travellers
+2022-03-11,0,Saskatchewan
+2022-03-11,9,Yukon
+2022-03-12,509,Alberta
+2022-03-12,280,British Columbia
+2022-03-12,0,Manitoba
+2022-03-12,808,New Brunswick
+2022-03-12,735,Newfoundland and Labrador
+2022-03-12,0,Northwest Territories
+2022-03-12,0,Nova Scotia
+2022-03-12,0,Nunavut
+2022-03-12,2015,Ontario
+2022-03-12,0,Prince Edward Island
+2022-03-12,0,Quebec
+2022-03-12,0,Repatriated Travellers
+2022-03-12,832,Saskatchewan
+2022-03-12,0,Yukon
+2022-03-13,395,Alberta
+2022-03-13,211,British Columbia
+2022-03-13,304,Manitoba
+2022-03-13,0,New Brunswick
+2022-03-13,527,Newfoundland and Labrador
+2022-03-13,0,Northwest Territories
+2022-03-13,0,Nova Scotia
+2022-03-13,0,Nunavut
+2022-03-13,1631,Ontario
+2022-03-13,0,Prince Edward Island
+2022-03-13,1955,Quebec
+2022-03-13,0,Repatriated Travellers
+2022-03-13,0,Saskatchewan
+2022-03-13,0,Yukon
+2022-03-14,447,Alberta
+2022-03-14,198,British Columbia
+2022-03-14,111,Manitoba
+2022-03-14,0,New Brunswick
+2022-03-14,443,Newfoundland and Labrador
+2022-03-14,76,Northwest Territories
+2022-03-14,0,Nova Scotia
+2022-03-14,0,Nunavut
+2022-03-14,1116,Ontario
+2022-03-14,857,Prince Edward Island
+2022-03-14,670,Quebec
+2022-03-14,0,Repatriated Travellers
+2022-03-14,0,Saskatchewan
+2022-03-14,21,Yukon
+2022-03-15,459,Alberta
+2022-03-15,176,British Columbia
+2022-03-15,172,Manitoba
+2022-03-15,0,New Brunswick
+2022-03-15,483,Newfoundland and Labrador
+2022-03-15,76,Northwest Territories
+2022-03-15,2888,Nova Scotia
+2022-03-15,66,Nunavut
+2022-03-15,1076,Ontario
+2022-03-15,0,Prince Edward Island
+2022-03-15,1023,Quebec
+2022-03-15,0,Repatriated Travellers
+2022-03-15,0,Saskatchewan
+2022-03-15,8,Yukon
+2022-03-16,593,Alberta
+2022-03-16,235,British Columbia
+2022-03-16,243,Manitoba
+2022-03-16,0,New Brunswick
+2022-03-16,560,Newfoundland and Labrador
+2022-03-16,71,Northwest Territories
+2022-03-16,0,Nova Scotia
+2022-03-16,0,Nunavut
+2022-03-16,2011,Ontario
+2022-03-16,747,Prince Edward Island
+2022-03-16,1380,Quebec
+2022-03-16,0,Repatriated Travellers
+2022-03-16,0,Saskatchewan
+2022-03-16,16,Yukon
+2022-03-17,619,Alberta
+2022-03-17,240,British Columbia
+2022-03-17,234,Manitoba
+2022-03-17,0,New Brunswick
+2022-03-17,609,Newfoundland and Labrador
+2022-03-17,53,Northwest Territories
+2022-03-17,0,Nova Scotia
+2022-03-17,0,Nunavut
+2022-03-17,2398,Ontario
+2022-03-17,0,Prince Edward Island
+2022-03-17,1462,Quebec
+2022-03-17,0,Repatriated Travellers
+2022-03-17,0,Saskatchewan
+2022-03-17,16,Yukon
+2022-03-18,502,Alberta
+2022-03-18,199,British Columbia
+2022-03-18,183,Manitoba
+2022-03-18,0,New Brunswick
+2022-03-18,663,Newfoundland and Labrador
+2022-03-18,53,Northwest Territories
+2022-03-18,0,Nova Scotia
+2022-03-18,0,Nunavut
+2022-03-18,2502,Ontario
+2022-03-18,0,Prince Edward Island
+2022-03-18,1170,Quebec
+2022-03-18,0,Repatriated Travellers
+2022-03-18,0,Saskatchewan
+2022-03-18,12,Yukon
+2022-03-19,565,Alberta
+2022-03-19,200,British Columbia
+2022-03-19,0,Manitoba
+2022-03-19,2781,New Brunswick
+2022-03-19,449,Newfoundland and Labrador
+2022-03-19,0,Northwest Territories
+2022-03-19,0,Nova Scotia
+2022-03-19,0,Nunavut
+2022-03-19,2078,Ontario
+2022-03-19,0,Prince Edward Island
+2022-03-19,0,Quebec
+2022-03-19,0,Repatriated Travellers
+2022-03-19,895,Saskatchewan
+2022-03-19,0,Yukon
+2022-03-20,489,Alberta
+2022-03-20,170,British Columbia
+2022-03-20,308,Manitoba
+2022-03-20,0,New Brunswick
+2022-03-20,449,Newfoundland and Labrador
+2022-03-20,0,Northwest Territories
+2022-03-20,0,Nova Scotia
+2022-03-20,0,Nunavut
+2022-03-20,1680,Ontario
+2022-03-20,0,Prince Edward Island
+2022-03-20,2317,Quebec
+2022-03-20,0,Repatriated Travellers
+2022-03-20,0,Saskatchewan
+2022-03-20,0,Yukon
+2022-03-21,345,Alberta
+2022-03-21,136,British Columbia
+2022-03-21,77,Manitoba
+2022-03-21,0,New Brunswick
+2022-03-21,324,Newfoundland and Labrador
+2022-03-21,99,Northwest Territories
+2022-03-21,0,Nova Scotia
+2022-03-21,0,Nunavut
+2022-03-21,1217,Ontario
+2022-03-21,0,Prince Edward Island
+2022-03-21,907,Quebec
+2022-03-21,0,Repatriated Travellers
+2022-03-21,0,Saskatchewan
+2022-03-21,37,Yukon
+2022-03-22,482,Alberta
+2022-03-22,250,British Columbia
+2022-03-22,104,Manitoba
+2022-03-22,0,New Brunswick
+2022-03-22,267,Newfoundland and Labrador
+2022-03-22,63,Northwest Territories
+2022-03-22,3453,Nova Scotia
+2022-03-22,69,Nunavut
+2022-03-22,1447,Ontario
+2022-03-22,2038,Prince Edward Island
+2022-03-22,1383,Quebec
+2022-03-22,0,Repatriated Travellers
+2022-03-22,0,Saskatchewan
+2022-03-22,6,Yukon
+2022-03-23,0,Alberta
+2022-03-23,269,British Columbia
+2022-03-23,137,Manitoba
+2022-03-23,0,New Brunswick
+2022-03-23,419,Newfoundland and Labrador
+2022-03-23,101,Northwest Territories
+2022-03-23,0,Nova Scotia
+2022-03-23,0,Nunavut
+2022-03-23,2149,Ontario
+2022-03-23,0,Prince Edward Island
+2022-03-23,2111,Quebec
+2022-03-23,0,Repatriated Travellers
+2022-03-23,0,Saskatchewan
+2022-03-23,21,Yukon
+2022-03-24,0,Alberta
+2022-03-24,271,British Columbia
+2022-03-24,205,Manitoba
+2022-03-24,0,New Brunswick
+2022-03-24,454,Newfoundland and Labrador
+2022-03-24,129,Northwest Territories
+2022-03-24,0,Nova Scotia
+2022-03-24,0,Nunavut
+2022-03-24,2561,Ontario
+2022-03-24,0,Prince Edward Island
+2022-03-24,2295,Quebec
+2022-03-24,0,Repatriated Travellers
+2022-03-24,0,Saskatchewan
+2022-03-24,13,Yukon
+2022-03-25,0,Alberta
+2022-03-25,218,British Columbia
+2022-03-25,148,Manitoba
+2022-03-25,0,New Brunswick
+2022-03-25,507,Newfoundland and Labrador
+2022-03-25,98,Northwest Territories
+2022-03-25,0,Nova Scotia
+2022-03-25,0,Nunavut
+2022-03-25,2761,Ontario
+2022-03-25,0,Prince Edward Island
+2022-03-25,2203,Quebec
+2022-03-25,0,Repatriated Travellers
+2022-03-25,0,Saskatchewan
+2022-03-25,16,Yukon
+2022-03-26,0,Alberta
+2022-03-26,207,British Columbia
+2022-03-26,307,Manitoba
+2022-03-26,3096,New Brunswick
+2022-03-26,370,Newfoundland and Labrador
+2022-03-26,0,Northwest Territories
+2022-03-26,0,Nova Scotia
+2022-03-26,0,Nunavut
+2022-03-26,2754,Ontario
+2022-03-26,0,Prince Edward Island
+2022-03-26,0,Quebec
+2022-03-26,0,Repatriated Travellers
+2022-03-26,1196,Saskatchewan
+2022-03-26,0,Yukon
+2022-03-27,0,Alberta
+2022-03-27,197,British Columbia
+2022-03-27,0,Manitoba
+2022-03-27,0,New Brunswick
+2022-03-27,539,Newfoundland and Labrador
+2022-03-27,0,Northwest Territories
+2022-03-27,0,Nova Scotia
+2022-03-27,0,Nunavut
+2022-03-27,2215,Ontario
+2022-03-27,0,Prince Edward Island
+2022-03-27,4100,Quebec
+2022-03-27,0,Repatriated Travellers
+2022-03-27,0,Saskatchewan
+2022-03-27,0,Yukon
+2022-03-28,0,Alberta
+2022-03-28,152,British Columbia
+2022-03-28,0,Manitoba
+2022-03-28,0,New Brunswick
+2022-03-28,248,Newfoundland and Labrador
+2022-03-28,214,Northwest Territories
+2022-03-28,0,Nova Scotia
+2022-03-28,0,Nunavut
+2022-03-28,1741,Ontario
+2022-03-28,0,Prince Edward Island
+2022-03-28,1614,Quebec
+2022-03-28,0,Repatriated Travellers
+2022-03-28,0,Saskatchewan
+2022-03-28,49,Yukon
+2022-03-29,4567,Alberta
+2022-03-29,287,British Columbia
+2022-03-29,0,Manitoba
+2022-03-29,0,New Brunswick
+2022-03-29,350,Newfoundland and Labrador
+2022-03-29,132,Northwest Territories
+2022-03-29,4188,Nova Scotia
+2022-03-29,72,Nunavut
+2022-03-29,1610,Ontario
+2022-03-29,2454,Prince Edward Island
+2022-03-29,2171,Quebec
+2022-03-29,0,Repatriated Travellers
+2022-03-29,0,Saskatchewan
+2022-03-29,16,Yukon
+2022-03-30,0,Alberta
+2022-03-30,317,British Columbia
+2022-03-30,0,Manitoba
+2022-03-30,0,New Brunswick
+2022-03-30,570,Newfoundland and Labrador
+2022-03-30,100,Northwest Territories
+2022-03-30,0,Nova Scotia
+2022-03-30,0,Nunavut
+2022-03-30,2814,Ontario
+2022-03-30,0,Prince Edward Island
+2022-03-30,3067,Quebec
+2022-03-30,0,Repatriated Travellers
+2022-03-30,0,Saskatchewan
+2022-03-30,12,Yukon
+2022-03-31,0,Alberta
+2022-03-31,249,British Columbia
+2022-03-31,0,Manitoba
+2022-03-31,0,New Brunswick
+2022-03-31,299,Newfoundland and Labrador
+2022-03-31,98,Northwest Territories
+2022-03-31,0,Nova Scotia
+2022-03-31,0,Nunavut
+2022-03-31,3139,Ontario
+2022-03-31,0,Prince Edward Island
+2022-03-31,3319,Quebec
+2022-03-31,0,Repatriated Travellers
+2022-03-31,0,Saskatchewan
+2022-03-31,23,Yukon
