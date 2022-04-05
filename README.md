@@ -37,10 +37,20 @@ same time, you have a very fast computer or something is wrong.)
 countryName <- "Canada"
 activeArea <- "Ontario"
 ```
+  - The `activeArea` is the first region which has its data 
+displayed in the graphs. Even if the map doesn't work 
+you will be able to choose regions through drop-down menu.
 5. Knit `docs/COVID19-Rt-regional.Rmd` and examine the output. You may wish to
 move it or rename it.
 6. Currently `daily-epinow-run` puts the output into docs, 
 which could be used for github pages publication. My
 workflow puts the output into a parallel directory,
-runs jekyll, and uses s3cmd to upload the output to
+runs [jekyll](https://jekyllrb.com/), and uses [s3cmd](https://github.com/s3tools/s3cmd) to upload the output to
 a static AWS S3-hosted website.
+7. Check the output.
+8. If you're happy with the process, look into running it
+daily (or less frequently).
+
+On my five year-old Mac mini I can generate R(t) estimates
+for sixty regions (Lithuania has 60 municipalities) for 
+two months of data in a few hours.

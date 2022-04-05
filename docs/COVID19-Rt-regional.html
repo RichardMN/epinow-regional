@@ -186,7 +186,7 @@ pre code {
  <link href="site_libs/select2-4.1.0/select2.min.css" rel="stylesheet" /> <script src="site_libs/select2-4.1.0/select2.min.js"></script> <div id="root"></div>
 <script>
  var x = {
- 'activeArea':'Ontario', 'activeData':'R0', 'activeTime':'all', 'geoData':d3.json('epinow/Canada_regions.geojson'), 'rtData': {'Cases':{'summaryData':d3.csv('epinow/summary_table.csv'),'rtData':d3.csv('epinow/rt.csv'),'casesInfectionData':d3.csv('epinow/cases_by_infection.csv'),'casesReportData':d3.csv('epinow/cases_by_report.csv'),'obsCasesData':d3.csv('epinow/reported_cases.csv')}}, 'fullWidth':800, 'downloadUrl':'http://projects.martin-nielsen.ca/Graphs/data-download.html', 'ts_color_ref':{'poly_90_e':'#d1ebe3','poly_90_eb':'#f7dfcc','poly_90_f':'#e3e2ef','poly_50_e':'#9bd4c2','poly_50_eb':'#edb98f','poly_50_f':'#c2c0dd','poly_20_e':'#75c4ab','poly_20_eb':'#e69e65','poly_20_f':'#aba8d0'},
+ 'activeArea':'Ontario', 'activeData':'R0', 'activeTime':'all', 'geoData':d3.json('epinow/Canada_regions.geojson'), 'rtData': {'Cases':{'summaryData':d3.csv('epinow/summary_table.csv'),'rtData':d3.csv('epinow/rt.csv'),'casesInfectionData':d3.csv('epinow/cases_by_infection.csv'),'casesReportData':d3.csv('epinow/cases_by_report.csv'),'obsCasesData':d3.csv('epinow/reported_cases.csv')}}, 'fullWidth':800, 'downloadUrl':'data-download.html', 'ts_color_ref':{'poly_90_e':'#d1ebe3','poly_90_eb':'#f7dfcc','poly_90_f':'#e3e2ef','poly_50_e':'#9bd4c2','poly_50_eb':'#edb98f','poly_50_f':'#c2c0dd','poly_20_e':'#75c4ab','poly_20_eb':'#e69e65','poly_20_f':'#aba8d0'},
 }
  var vis = new rtVis(x, 100, 100);
  vis.summaryWidget('#root')
