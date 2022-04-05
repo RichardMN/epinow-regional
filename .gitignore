@@ -52,3 +52,9 @@ Ended\ epinow\ run.txt
 
 # output
 output/*
+
+# ignore generic country geoJSON
+country_regions.geojson
+
+# ignore some testing code
+docs/test-RtD3.*
