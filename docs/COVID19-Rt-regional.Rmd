@@ -1,6 +1,5 @@
 ---
-title: "COVID19  - regional statistics"
-author: "Richard Martin-Nielsen"
+title: "COVID19 - regional statistics"
 output:
   html_document:
     fig_width: 6
@@ -13,16 +12,13 @@ output:
 knitr::opts_chunk$set(echo = FALSE)
 Sys.setenv(`_R_S3_METHOD_REGISTRATION_NOTE_OVERWRITES_` = "false")
 library(dplyr)
-#library(RtD3)
 library(lubridate)
 library(htmltools)
 library(covidregionaldata)
-#library(rmapshaper)
 
 countryName <- "Canada"
 activeArea <- "Ontario"
 ```
-Header text also goes here.
 
 ``` {r }
 # RtD3::summaryWidget(
@@ -88,3 +84,10 @@ The visualisation is built using the [RtD3](https://epiforecasts.io/RtD3/) packa
 
 * Sam Abbott, Joel Hellewell, Katharine Sherratt, Katelyn Gostic, Joe Hickson, Hamada S. Badr, Michael DeWitt, Robin Thompson, EpiForecasts, and Sebastian Funk (2020). EpiNow2: Estimate Real-Time Case Counts and Time-Varying Epidemiological Parameters, DOI: 10.5281/zenodo.3957489
 * Hamish Gibbs (2020). RtD3: Rt Visualization in D3, DOI: 10.5281/zenodo.4011841
+
+~~~{=html}
+<h2 id="SummaryData">Summary data table</h2>
+<div id="summary_data"></div>
+<script src="site_libs/epinow_table.js"></script>
+</div>
+~~~
